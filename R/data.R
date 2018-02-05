@@ -27,3 +27,29 @@
 #' }
 #' @source \url{http://www.calflora.org/entry/wgh.html#srch=t&group=none&fmt=photo&inma=t&y=34.6927&x=-120.042&z=12&lpstr=t&lpom=d}
 "species"
+
+#' Focal species names and publication history
+#'
+#' A dataframe with all the annual plant species used in experiments by
+#' Levine, HilleRisLambers, Godoy, Kraft and others. Includes past names used
+#' and currently revised names. Dataframe is taken directly from the
+#' SedgwickTaxonomy project by Will Petry.
+#'
+#' @format A data frame with 29 rows and 14 variables:
+#' \describe{
+#'   \item{prior_code}{four letter code, first two of genus and first two of species, used in previous publications}
+#'   \item{prior_name}{prior scientific name}
+#'   \item{prior_native}{prior classification as native or non-native}
+#'   \item{current_code}{revised code}
+#'   \item{current_name}{revised scientific name}
+#'   \item{family}{family}
+#'   \item{reason_updated}{notes on revision}
+#'   \item{Levine_HilleRisLambers_2009_Nature}{included in this paper}
+#'   \item{Godoy_Levine_2014_Ecology}{included in this paper}
+#'   \item{Godoy_etal_2014_EcolLett}{included in this paper}
+#'   \item{Kraft_etal_2015_PNAS}{included in this paper}
+#'   \item{Godoy_etal_2017_Ecology}{included in this paper}
+#'   \item{Saavedra_etal_2017_EcolMono}{included in this paper}
+#' }
+#' @source \url{https://github.com/wpetry/SedgwickTaxonomy}
+"focal_species"
