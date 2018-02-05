@@ -1,0 +1,733 @@
+taxon	common	lifeform	status	family	bloom
+Acer macrophyllum	Bigleaf maple	Tree	native	SAPINDACEAE	4-5
+Achillea millefolium	Yarrow	Perennial herb	native	ASTERACEAE	4-8
+Achyrachaena mollis	Blow wives	Annual herb	native	ASTERACEAE	4-5
+Acmispon americanus	American bird's foot trefoil	Annual herb	native	FABACEAE	4-7
+Acmispon americanus var. americanus	Spanish lotus	Annual herb	native	FABACEAE	4-7
+Acmispon brachycarpus	Short podded lotus	Annual herb	native	FABACEAE	3-6
+Acmispon glaber	Deerweed	Perennial herb	native	FABACEAE	3-8
+Acmispon glaber var. glaber	Deerweed	Perennial herb	native	FABACEAE	3-7
+Acmispon grandiflorus	Large leaved lotus	Perennial herb	native	FABACEAE	4-7
+Acmispon maritimus	Coastal lotus	Annual herb	native	FABACEAE	3-6
+Acmispon maritimus var. maritimus	Coastal lotus	Annual herb	native	FABACEAE	3-6
+Acmispon strigosus	Strigose lotus	Annual herb	native	FABACEAE	2-6
+Acmispon wrangelianus	Chilean trefoil	Annual herb	native	FABACEAE	3-4
+Acourtia microcephala	Sacapellote	Perennial herb	native	ASTERACEAE	6-8
+Adenostoma fasciculatum	Chamise	Tree, Shrub	native	ROSACEAE	6-8
+Adenostoma fasciculatum var. fasciculatum	Chamise	Tree, Shrub	native	ROSACEAE	6-8
+Adiantum capillus-veneris	Maidenhair fern	Fern	native	PTERIDACEAE	6-8
+Adiantum jordanii	California maidenhair fern	Fern	native	PTERIDACEAE
+Aegilops cylindrica	Jointed goatgrass	Annual grass	invasive non-native	POACEAE	5-7
+Agoseris grandiflora	Giant mountain dandelion	Perennial herb	native	ASTERACEAE	3-5
+Agoseris heterophylla	Mountain dandelion	Annual herb	native	ASTERACEAE	4-7
+Agoseris heterophylla var. cryptopleura	Mountain dandelion	Annual herb	native	ASTERACEAE	4-7
+Agoseris retrorsa	Spear leaved agoseris	Perennial herb	native	ASTERACEAE	4-6
+Agrostis exarata	Bentgrass	Perennial grass	native	POACEAE	5-6
+Agrostis hooveri	Hoover's bent grass	Perennial grass	native	POACEAE	4-7
+Agrostis pallens	Diego bent grass	Perennial grass	native	POACEAE	4-5
+Ailanthus altissima	Tree of heaven	Tree	invasive non-native	SIMAROUBACEAE	5-6
+Allium amplectens	Narrow leaved onion	Perennial herb (bulb)	native	ALLIACEAE	3-7
+Allium campanulatum	Dusky onion	Perennial herb (bulb)	native	ALLIACEAE	6-8
+Allium crispum	Crinkled onion	Perennial herb (bulb)	native	ALLIACEAE	3-6
+Allium diabolense	Diablo onion	Perennial herb (bulb)	native	ALLIACEAE	4-6
+Allium haematochiton	Red skinned onion	Perennial herb (bulb)	native	ALLIACEAE	3-5
+Allium howellii	Howell's onion	Perennial herb (bulb)	native	ALLIACEAE	4-6
+Allium peninsulare	Mexicali onion	Perennial herb (bulb)	native	ALLIACEAE	5-6
+Allophyllum gilioides	Dense false gilia	Annual herb	native	POLEMONIACEAE	4-7
+Allophyllum gilioides ssp. gilioides	Dense false gilia	Annual herb	native	POLEMONIACEAE	4-7
+Allophyllum glutinosum	Sticky false gilia	Annual herb	native	POLEMONIACEAE	4-6
+Alnus rhombifolia	White alder	Tree	native	BETULACEAE	9-11
+Amaranthus albus	Tumbleweed	Annual herb	non-native	AMARANTHACEAE	4-10
+Amaranthus retroflexus	Rough pigweed	Annual herb	non-native	AMARANTHACEAE	6-11
+Ammi majus	Bishop's weed	Annual, Biennial herb	non-native	APIACEAE	5-7
+Amorpha californica	False indigo	Shrub	native	FABACEAE	4-7
+Amorpha californica var. californica	California false indigo	Shrub	native	FABACEAE	4-7
+Amsinckia douglasiana	Douglas' fiddleneck	Annual herb	native	BORAGINACEAE	3-5
+Amsinckia intermedia	Common fiddleneck	Annual herb	native	BORAGINACEAE	2-6
+Amsinckia menziesii	Fiddleneck	Annual herb	native	BORAGINACEAE	3-5
+Amsinckia vernicosa	Green fiddleneck	Annual herb	native	BORAGINACEAE	3-5
+Ancistrocarphus filagineus	Woolly fishhooks	Annual herb	native	ASTERACEAE	3-5
+Anemopsis californica	Yerba mansa	Perennial herb	native	SAURURACEAE	2-3
+Anthemis cotula	Dog fennel	Annual herb	invasive non-native	ASTERACEAE	5-9
+Anthriscus caucalis	Bur chevril	Annual herb, Vine	non-native	APIACEAE	3-5
+Antirrhinum multiflorum	Sticky snapdragon	Annual, Perennial herb	native	PLANTAGINACEAE	5-7
+Aphanes occidentalis	Ladie's mantle	Annual, Perennial herb	native	ROSACEAE	2-4
+Apiastrum angustifolium	Wild celery	Annual herb	native	APIACEAE	3-4
+Apocynum cannabinum	Indian hemp	Perennial herb	native	APOCYNACEAE	6-8
+Arceuthobium campylopodum	Pine  dwarf mistletoe	Perennial herb (parasitic)	native	VISCACEAE	7-11
+Arctostaphylos glandulosa	Eastwood manzanita	Shrub	native	ERICACEAE	1-3
+Arctostaphylos glandulosa ssp. glandulosa	Eastwood manzanita	Shrub	native	ERICACEAE	1-3
+Arctostaphylos glandulosa ssp. mollis	Transverse range manzanita	Shrub	native	ERICACEAE	1-3
+Arctostaphylos glauca	Big berry manzanita	Tree, Shrub	native	ERICACEAE	1-2
+Arctostaphylos pungens	Mexican manzanita	Tree, Shrub	native	ERICACEAE	1-2
+Arctostaphylos refugioensis	Refugio manzanita	Shrub	native	ERICACEAE	12-3
+Arctostaphylos viridissima	Mcminn's manzanita	Shrub	native	ERICACEAE	12-5
+Aristida adscensionis	Three awn	Annual grass	native	POACEAE	1-11
+Artemisia californica	Coastal sage brush	Shrub	native	ASTERACEAE	4-10
+Artemisia douglasiana	California mugwort	Perennial herb	native	ASTERACEAE	5-10
+Asclepias californica	California milkweed	Perennial herb	native	APOCYNACEAE	4-7
+Asclepias eriocarpa	Indian milkweed	Perennial herb	native	APOCYNACEAE	6-8
+Asclepias fascicularis	narrow leaf milkweed	Perennial herb	native	APOCYNACEAE	6-9
+Aspidotis californica	California lace fern	Fern	native	PTERIDACEAE
+Astragalus didymocarpus	Dwarf white milk vetch	Annual herb	native	FABACEAE	3-6
+Astragalus gambelianus	Loco weed	Annual herb	native	FABACEAE	3-6
+Astragalus trichopodus	Santa barbara milk vetch	Perennial herb	native	FABACEAE	2-6
+Astragalus trichopodus var. phoxus	Santa barbara milk vetch	Perennial herb	native	FABACEAE	2-6
+Athysanus pusillus	Dwarf athysanus	Annual herb	native	BRASSICACEAE	2-4
+Atriplex serenana	Saltscale	Annual herb	native	CHENOPODIACEAE	4-10
+Atriplex suberecta	Peregrine saltbush	Annual herb	non-native	CHENOPODIACEAE	3-6
+Avena barbata	Slim oat	Annual, Perennial grass	invasive non-native	POACEAE	3-6
+Avena fatua	Wildoats	Annual grass	invasive non-native	POACEAE	4-5
+Baccharis glutinosa	Salt Marsh baccharis	Perennial herb	native	ASTERACEAE	6-10
+Baccharis pilularis	Coyote brush	Shrub	native	ASTERACEAE	9-1
+Baccharis pilularis ssp. consanguinea	Coyote brush	Shrub	native	ASTERACEAE	10-1
+Baccharis plummerae ssp. plummerae	Plummer's baccharis	Shrub	native	ASTERACEAE	5-10
+Baccharis salicifolia	Mule fat	Shrub	native	ASTERACEAE	1-12
+Baccharis salicifolia ssp. salicifolia	Mule fat	Shrub	native	ASTERACEAE	5-6
+Barbarea orthoceras	Winter cress	Perennial herb	native	BRASSICACEAE	2-4
+Bidens pilosa	Hairy beggarticks	Annual herb	non-native	ASTERACEAE	1-12
+Bloomeria crocea	Golden stars	Perennial herb	native	THEMIDACEAE	4-6
+Bloomeria crocea var. crocea	Common goldenstar	Perennial herb	native	THEMIDACEAE	4-6
+Bloomeria crocea var. montana	Mountain goldenstar	Perennial herb	native	THEMIDACEAE	4-6
+Bowlesia incana	Bowlesia	Annual herb	native	APIACEAE	3-4
+Brachypodium distachyon	Purple false brome	Annual, Perennial grass	invasive non-native	POACEAE	4-7
+Brassica nigra	Black mustard	Annual herb	invasive non-native	BRASSICACEAE	4-7
+Brickellia californica	California brickellia	Perennial herb	native	ASTERACEAE	8-11
+Brodiaea jolonensis	Jolon brodiaea	Perennial herb	native	THEMIDACEAE	4-6
+Brodiaea terrestris	Dwarf brodiaea	Perennial herb	native	THEMIDACEAE	4-7
+Brodiaea terrestris ssp. terrestris	Dwarf brodiaea	Perennial herb	native	THEMIDACEAE	4-7
+Bromus arenarius	Australian chess	Annual grass	non-native	POACEAE	4-7
+Bromus carinatus	California bromegrass	Perennial grass	native	POACEAE	2-3
+Bromus carinatus var. carinatus	California brome	Perennial grass	native	POACEAE	2-3
+Bromus diandrus	Ripgut brome	Annual grass	invasive non-native	POACEAE	4-6
+Bromus grandis	Tall brome	Perennial grass	native	POACEAE	5-7
+Bromus hordeaceus	Soft chess	Annual grass	invasive non-native	POACEAE	4-5
+Bromus laevipes	Narrow flowered brome	Annual, Perennial grass	native	POACEAE	5-7
+Bromus madritensis ssp. madritensis	Foxtail chess	Annual grass	non-native	POACEAE	2-3
+Bromus madritensis ssp. rubens	Foxtail brome	Annual grass	invasive non-native	POACEAE	2-3
+Bromus pseudolaevipes	Southern chinook brome	Perennial grass	native	POACEAE	4-7
+Bromus tectorum	Downy chess	Annual grass	invasive non-native	POACEAE	5-6
+Calandrinia menziesii	Red maids	Annual herb	native	MONTIACEAE	2-5
+California macrophylla	Round leaved filaree	Annual herb	native	GERANIACEAE	3-5
+Callitriche marginata	Winged water starwort	Annual herb (aquatic)	native	PLANTAGINACEAE	2-3
+Calochortus albus	White fairy lantern	Perennial herb	native	LILIACEAE	4-5
+Calochortus catalinae	Catalina mariposa	Perennial herb (bulb)	native	LILIACEAE	3-6
+Calochortus clavatus	Club haired mariposa	Perennial herb	native	LILIACEAE	5-7
+Calochortus clavatus var. clavatus	Club haired mariposa lily	Perennial herb (bulb)	native	LILIACEAE	5-6
+Calochortus clavatus var. pallidus	Pale yellow mariposa	Perennial herb	native	LILIACEAE	5-7
+Calochortus splendens	Splendid mariposa	Perennial herb	native	LILIACEAE	4-6
+Calochortus superbus	Yellow mariposa	Perennial herb	native	LILIACEAE	5-7
+Calochortus venustus	Butterfly mariposa lily	Perennial herb	native	LILIACEAE	5-6
+Calystegia collina ssp. venusta	South coast range morning glory	Perennial herb (rhizomatous)	native	CONVOLVULACEAE	4-6
+Calystegia macrostegia ssp. cyclostegia	Coast morning glory	Perennial herb, Vine	native	CONVOLVULACEAE	2-7
+Calystegia malacophylla	Morning glory	Perennial herb	native	CONVOLVULACEAE	7-8
+Calystegia purpurata	Smooth western morning glory	Perennial herb	native	CONVOLVULACEAE	4-9
+Calystegia purpurata ssp. purpurata	Smooth western morning glory	Perennial herb	native	CONVOLVULACEAE	4-9
+Camissoniopsis intermedia	Intermediate sun cups	Annual herb	native	ONAGRACEAE	4-5
+Camissoniopsis micrantha	Spencer primrose	Annual herb	native	ONAGRACEAE	3-6
+Capsella bursa-pastoris	Shepherd's purse	Annual herb	non-native	BRASSICACEAE	1-12
+Cardamine californica	Bitter cress	Perennial herb	native	BRASSICACEAE	2-4
+Carduus pycnocephalus	Italian thistle	Annual herb	invasive non-native	ASTERACEAE	2-7
+Carduus pycnocephalus ssp. pycnocephalus	Italian thistle	Annual herb	non-native	ASTERACEAE	2-6
+Carex angustata	Narrow leaved sedge	Perennial grasslike herb	native	CYPERACEAE
+Carex serratodens	Bifid sedge	Perennial grasslike herb	native	CYPERACEAE
+Castilleja affinis	Indian paintbrush	Perennial herb	native	OROBANCHACEAE	6-6
+Castilleja affinis ssp. affinis	Wight's indian paint brush	Perennial herb	native	OROBANCHACEAE	6-6
+Castilleja applegatei ssp. martinii	Martin's paintbrush	Perennial herb	native	OROBANCHACEAE	4-6
+Castilleja attenuata	Narrow leaved owl's clover	Annual herb	native	OROBANCHACEAE	3-5
+Castilleja exserta	Owl's clover	Annual herb	native	OROBANCHACEAE	3-6
+Castilleja exserta ssp. exserta	Purple owl's clover	Annual herb	native	OROBANCHACEAE	3-6
+Castilleja foliolosa	Texas paintbrush	Perennial herb	native	OROBANCHACEAE	2-6
+Caulanthus amplexicaulis	Clasping leaved caulanthus	Annual herb	native	BRASSICACEAE	5-7
+Caulanthus amplexicaulis var. barbarae	Santa barbara jewelflower	Annual herb	native	BRASSICACEAE	5-7
+Caulanthus coulteri	Coulter's jewel flower	Annual herb	native	BRASSICACEAE	3-7
+Caulanthus lasiophyllus	California mustard	Annual herb	native	BRASSICACEAE	3-6
+Ceanothus cuneatus	Buck brush	Shrub	native	RHAMNACEAE	2-4
+Ceanothus cuneatus var. cuneatus	Buck brush	Shrub	native	RHAMNACEAE	2-4
+Ceanothus cuneatus var. fascicularis	Sand buck brush	Shrub	native	RHAMNACEAE	2-4
+Ceanothus cuneatus var. ramulosus	Buck brush	Shrub	native	RHAMNACEAE	2-4
+Ceanothus leucodermis	Chaparral whitethorn	Shrub	native	RHAMNACEAE	3-5
+Ceanothus megacarpus	Big pod ceanothus	Shrub	native	RHAMNACEAE	2-4
+Ceanothus oliganthus var. sorediatus	Jim brush	Shrub	native	RHAMNACEAE	3-4
+Ceanothus palmeri	Palmer's ceanothus	Shrub	native	RHAMNACEAE	4-5
+Centaurea melitensis	Tocalote	Annual herb	invasive non-native	ASTERACEAE	4-8
+Centranthus ruber	Jupiter's beard	Annual, Perennial herb	non-native	VALERIANACEAE	4-8
+Cerastium glomeratum	Large mouse ears	Annual herb	non-native	CARYOPHYLLACEAE	2-5
+Ceratophyllum demersum	Hornwort	Perennial herb	native	CERATOPHYLLACEAE	6-8
+Cercocarpus betuloides	Birch leaf mountain mahogany	Tree, Shrub	native	ROSACEAE	3-5
+Cercocarpus betuloides var. betuloides	Birch leaf mountain mahogany	Tree, Shrub	native	ROSACEAE	3-6
+Chaenactis glabriuscula	Common yellow chaenactis	Annual herb	native	ASTERACEAE	1-8
+Chaenactis glabriuscula var. glabriuscula	Common yellow chaenactis	Annual herb	native	ASTERACEAE	1-8
+Chaenactis glabriuscula var. heterocarpha	Variable fruited yellow chaenactis	Annual herb	native	ASTERACEAE	1-8
+Chaenactis glabriuscula var. megacephala	Big headed yellow chaenactis	Annual herb	native	ASTERACEAE	1-8
+Chenopodium berlandieri var. sinuatum	Pitseed goosefoot	Annual herb	native	CHENOPODIACEAE	7-8
+Chenopodium californicum	California goosefoot	Perennial herb	native	CHENOPODIACEAE	3-6
+Chlorogalum pomeridianum	Amole	Perennial herb	native	AGAVACEAE	5-8
+Chlorogalum pomeridianum var. pomeridianum	Common soaproot	Perennial herb	native	AGAVACEAE	5-7
+Chorizanthe membranacea	Pink spineflower	Annual herb	native	POLYGONACEAE	4-6
+Chorizanthe obovata	Spoon sepal spineflower	Annual herb	native	POLYGONACEAE	5-7
+Chorizanthe palmeri	Palmer's spineflower	Annual herb	native	POLYGONACEAE	4-8
+Chorizanthe staticoides	Turkish rugging	Annual herb	native	POLYGONACEAE	4-7
+Cichorium intybus	Chicory	Perennial herb	non-native	ASTERACEAE	7-8
+Cirsium occidentale var. californicum	California thistle	Perennial herb	native	ASTERACEAE	5-7
+Cirsium occidentale var. occidentale	Cobweb thistle	Perennial herb	native	ASTERACEAE	5-7
+Cirsium occidentale var. venustum	Coulter's thistle	Perennial herb	native	ASTERACEAE	5-7
+Cirsium vulgare	Bullthistle	Perennial herb	invasive non-native	ASTERACEAE	6-9
+Clarkia affinis	Chaparral fairyfan	Annual herb	native	ONAGRACEAE	4-7
+Clarkia bottae	Punch bowl godetia	Annual herb	native	ONAGRACEAE	4-6
+Clarkia cylindrica	Speckled clarkia	Annual herb	native	ONAGRACEAE	4-7
+Clarkia cylindrica ssp. cylindrica	Speckled clarkia	Annual herb	native	ONAGRACEAE	4-7
+Clarkia epilobioides	Willow herb clarkia	Annual herb	native	ONAGRACEAE	4-5
+Clarkia heterandra	California gaura	Annual herb	native	ONAGRACEAE	5-7
+Clarkia purpurea	Purple clarkia	Annual herb	native	ONAGRACEAE	4-7
+Clarkia purpurea ssp. purpurea	Purple clarkia	Annual herb	native	ONAGRACEAE	4-7
+Clarkia purpurea ssp. quadrivulnera	Purple clarkia	Annual herb	native	ONAGRACEAE	4-7
+Clarkia rhomboidea	Tongue clarkia	Annual herb	native	ONAGRACEAE	4-7
+Clarkia unguiculata	Woodland clarkia	Annual herb	native	ONAGRACEAE	6-9
+Claytonia exigua ssp. exigua	Viridis	Annual herb	native	MONTIACEAE	2-5
+Claytonia gypsophiloides	Gypsum spring beauty	Annual herb	native	MONTIACEAE	2-4
+Claytonia parviflora	Narrow leaved miner's lettuce	Annual herb	native	MONTIACEAE	2-5
+Claytonia parviflora ssp. parviflora	Miner'slettuce	Annual herb	native	MONTIACEAE	3-5
+Claytonia parviflora ssp. viridis	Green miner's lettuce	Annual herb	native	MONTIACEAE	3-5
+Claytonia perfoliata	Miner's lettuce	Annual herb	native	MONTIACEAE	2-5
+Claytonia perfoliata ssp. mexicana	Southern miner's lettuce	Annual herb	native	MONTIACEAE	4-5
+Clematis lasiantha	Pipestem	Perennial herb, Vine	native	RANUNCULACEAE	3-7
+Clematis ligusticifolia	Creek clematis	Perennial herb, Vine	native	RANUNCULACEAE	6-8
+Clinopodium mimuloides	Monkeyflower savory	Perennial herb	native	LAMIACEAE	6-10
+Collinsia bartsiifolia var. davidsonii	Davidson's collinsia	Annual herb	native	PLANTAGINACEAE	4-6
+Collinsia heterophylla	Chinese houses	Annual herb	native	PLANTAGINACEAE	2-4
+Collinsia heterophylla var. heterophylla	Purple chinese houses	Annual herb	native	PLANTAGINACEAE	2-4
+Collomia grandiflora	Large flowered collomia	Annual herb	native	POLEMONIACEAE	6-7
+Conium maculatum	Poison hemlock	Perennial herb	invasive non-native	APIACEAE	4-9
+Convolvulus arvensis	Field bindweed	Perennial herb, Vine	invasive non-native	CONVOLVULACEAE	4-9
+Convolvulus simulans	Small flowered morning glory	Annual herb	native	CONVOLVULACEAE	3-7
+Cordylanthus rigidus ssp. rigidus	Rigid bird's beak	Annual herb	native	OROBANCHACEAE	7-8
+Corethrogyne filaginifolia	Common sandaster	Perennial herb	native	ASTERACEAE	6-10
+Cornus sericea ssp. occidentalis	Western dogwood	Shrub	native	CORNACEAE	6-8
+Cortaderia selloana	Pampas grass	Perennial grass	invasive non-native	POACEAE	9-3
+Cotula coronopifolia	Brass buttons	Perennial herb	invasive non-native	ASTERACEAE	5-10
+Crassula connata	Sand pygmy weed	Annual herb	native	CRASSULACEAE	2-5
+Croton setiger	Turkey-mullein	Annual herb	native	EUPHORBIACEAE
+Crypsis schoenoides	Swamp grass	Annual grass	non-native	POACEAE	6-10
+Cryptantha clevelandii	Common cryptantha	Annual herb	native	BORAGINACEAE	3-5
+Cryptantha clevelandii var. florosa	Coastal cryptantha	Annual herb	native	BORAGINACEAE	3-6
+Cryptantha corollata	Coast range cryptantha	Annual herb	native	BORAGINACEAE	3-6
+Cryptantha intermedia	Common cryptanth	Annual herb	native	BORAGINACEAE	3-7
+Cryptantha intermedia var. intermedia	Common cryptantha	Annual herb	native	BORAGINACEAE	3-7
+Cryptantha micromeres	Small flowered cryptantha	Annual herb	native	BORAGINACEAE	7-7
+Cryptantha microstachys	Tejon cryptantha	Annual herb	native	BORAGINACEAE	4-6
+Cryptantha muricata	Prickly cryptantha	Annual herb	native	BORAGINACEAE	4-8
+Cryptantha muricata var. muricata	Showy prickly-nut cryptantha	Annual herb	native	BORAGINACEAE	3-7
+Cucurbita foetidissima	Missouri gourd	Perennial herb, Vine	native	CUCURBITACEAE	6-8
+Cuscuta californica	California dodder	Annual herb, Vine (parasitic)	native	CONVOLVULACEAE	2-8
+Cuscuta californica var. californica	Short flowered dodder	Annual herb, Vine (parasitic)	native	CONVOLVULACEAE	2-8
+Cynara cardunculus ssp. cardunculus	Artichoke	Perennial herb	non-native	ASTERACEAE	4-7
+Cynodon dactylon	Bermuda grass	Perennial grass	invasive non-native	POACEAE	4-5
+Cyperus esculentus	Nut grass	Perennial grasslike herb	native	CYPERACEAE	7-8
+Datisca glomerata	Durango root	Perennial herb	native	DATISCACEAE	5-7
+Datura wrightii	Jimsonweed	Perennial herb	native	SOLANACEAE	2-10
+Daucus pusillus	Wild carrot	Annual herb	native	APIACEAE	4-6
+Deinandra fasciculata	Clustered tarweed	Annual herb	native	ASTERACEAE	5-10
+Delphinium parryi	San bernardino larkspur	Perennial herb	native	RANUNCULACEAE	4-6
+Delphinium patens ssp. hepaticoideum	Spreading larkspur	Perennial herb	native	RANUNCULACEAE	3-4
+Delphinium umbraculorum	Umbrella larkspur	Perennial herb	native	RANUNCULACEAE	4-6
+Dendromecon rigida	Bush poppy	Shrub	native	PAPAVERACEAE	2-5
+Dichelostemma capitatum	Blue dicks	Perennial herb	native	THEMIDACEAE	2-4
+Dichelostemma capitatum ssp. capitatum	Wild hyacinth	Perennial herb	native	THEMIDACEAE	2-4
+Drymocallis glandulosa	Sticky cinquefoil	Perennial herb	native	ROSACEAE	4-9
+Drymocallis lactea var. lactea	Sierran woodbeauty	Perennial herb	native	ROSACEAE	6-8
+Dryopteris arguta	Wood fern	Fern	native	DRYOPTERIDACEAE
+Dudleya lanceolata	Southern california dudleya	Perennial herb	native	CRASSULACEAE	5-7
+Dudleya pulverulenta	Chalk dudleya	Perennial herb	native	CRASSULACEAE	5-7
+Dysphania ambrosioides	Mexican tea	Annual, Perennial herb	non-native	CHENOPODIACEAE	6-10
+Ehrendorferia chrysantha	Golden eardrops	Perennial herb	native	PAPAVERACEAE	5-7
+Eleocharis macrostachya	Spike rush	Perennial grasslike herb	native	CYPERACEAE	5-6
+Eleocharis montevidensis	Montevideo spike rush	Perennial grasslike herb	native	CYPERACEAE
+Eleocharis parishii	Parish's spike rush	Perennial grasslike herb	native	CYPERACEAE
+Eleocharis rostellata	Walking sedge	Perennial grasslike herb	native	CYPERACEAE	5-6
+Elymus condensatus	Giant wild rye	Perennial grass	native	POACEAE	5-8
+Elymus elymoides var. elymoides	Squirrel tail grass	Perennial grass	native	POACEAE	4-5
+Elymus glaucus	Blue wildrye	Perennial grass	native	POACEAE	5-7
+Elymus glaucus ssp. glaucus	Blue wild rye	Perennial grass	native	POACEAE	5-7
+Elymus multisetus	Big squirreltail grass	Perennial grass	native	POACEAE	5-7
+Elymus ponticus	Tall wheat grass	Perennial grass	non-native	POACEAE	6-7
+Elymus repens	Quack grass	Perennial grass	non-native	POACEAE	4-8
+Elymus triticoides	Beardless wild rye	Perennial grass	native	POACEAE	6-7
+Emmenanthe penduliflora	Whispering bells	Annual herb	native	BORAGINACEAE	2-6
+Emmenanthe penduliflora var. penduliflora	Whispering bells	Annual herb	native	BORAGINACEAE	2-5
+Encelia californica	Bush sunflower	Shrub	native	ASTERACEAE	2-6
+Epilobium brachycarpum	Willow herb	Annual herb	native	ONAGRACEAE	6-10
+Epilobium canum	California fuchsia, zauschneria	Perennial herb	native	ONAGRACEAE	8-10
+Epilobium canum ssp. canum	California fuchsia	Perennial herb	native	ONAGRACEAE	6-10
+Epilobium ciliatum	Slender willow herb	Perennial herb	native	ONAGRACEAE	3-9
+Epilobium ciliatum ssp. ciliatum	Willow herb	Perennial herb	native	ONAGRACEAE	6-9
+Epilobium ciliatum ssp. glandulosum	Glandular willowherb	Perennial herb	native	ONAGRACEAE	3-9
+Epilobium minutum	Minute willowherb	Annual herb	native	ONAGRACEAE	4-6
+Epipactis gigantea	Stream orchid	Perennial herb	native	ORCHIDACEAE	5-7
+Equisetum hyemale ssp. affine	Giant scouring rush	Fern	native	EQUISETACEAE
+Equisetum laevigatum	Smooth scouring rush	Fern	native	EQUISETACEAE	2-3
+Equisetum telmateia	Giant horsetail	Fern	native	EQUISETACEAE
+Eremothera boothii ssp. decorticans	Shredding evening-primrose	Annual herb	native	ONAGRACEAE	3-6
+Erigeron bonariensis	Flax-leaved horseweed	Annual herb	non-native	ASTERACEAE	6-8
+Erigeron canadensis	Canada horseweed	Annual herb	native	ASTERACEAE	6-9
+Erigeron foliosus	Leafy daisy	Perennial herb	native	ASTERACEAE	5-9
+Erigeron foliosus var. foliosus	Thread stemmed fleabane	Perennial herb, Shrub	native	ASTERACEAE	5-9
+Eriodictyon tomentosum	Woolly yerba santa	Shrub	native	BORAGINACEAE	5-7
+Eriodictyon traskiae	Trask's yerba santa	Shrub	native	BORAGINACEAE	5-7
+Eriodictyon traskiae ssp. smithii	Smith's yerba santa	Shrub	native	BORAGINACEAE	5-7
+Eriogonum cithariforme	Cithara buckwheat	Annual herb	native	POLYGONACEAE	5-10
+Eriogonum cithariforme var. agninum	Cithara buckwheat	Annual herb	native	POLYGONACEAE	5-10
+Eriogonum elongatum	Longstem buckwheat	Perennial herb	native	POLYGONACEAE	8-11
+Eriogonum elongatum var. elongatum	Long stemmed buckwheat	Perennial herb	native	POLYGONACEAE	9-11
+Eriogonum fasciculatum	California buckwheat	Shrub	native	POLYGONACEAE	4-9
+Eriogonum fasciculatum var. foliolosum	California buckwheat	Shrub	native	POLYGONACEAE	6-8
+Eriogonum fasciculatum var. polifolium	California buckwheat	Shrub	native	POLYGONACEAE	6-8
+Eriogonum gracile	Slender buckwheat	Annual herb	native	POLYGONACEAE	5-9
+Eriogonum gracile var. gracile	Slender buckwheat	Annual herb	native	POLYGONACEAE	5-9
+Eriogonum nudum var. pauciflorum	Long trumpet	Shrub	native	POLYGONACEAE	5-8
+Eriogonum saxatile	Rock buckwheat	Perennial herb	native	POLYGONACEAE	5-8
+Eriophyllum confertiflorum	Yellow yarrow	Shrub	native	ASTERACEAE	2-8
+Eriophyllum confertiflorum var. confertiflorum	Golden yarrow	Shrub	native	ASTERACEAE	4-8
+Erodium cicutarium	Coastal heron's bill	Annual herb	invasive non-native	GERANIACEAE	2-6
+Erodium moschatum	Whitestem filaree	Annual herb	invasive non-native	GERANIACEAE	2-5
+Erysimum capitatum	Wallflower	Perennial herb	native	BRASSICACEAE	3-7
+Erysimum capitatum var. capitatum	Sanddune wallflower	Perennial herb	native	BRASSICACEAE	4-5
+Erysimum capitatum var. lompocense	San luis obispo wallflower	Perennial herb	native	BRASSICACEAE	2-5
+Eschscholzia caespitosa	Tufted eschscholzia	Annual herb	native	PAPAVERACEAE	3-8
+Eschscholzia californica	California poppy	Annual, Perennial herb	native	PAPAVERACEAE	2-9
+Eucrypta chrysanthemifolia	Spotted eucrypta	Annual herb	native	BORAGINACEAE	3-6
+Eucrypta chrysanthemifolia var. bipinnatifida	Torrey eucrypta	Annual herb	native	BORAGINACEAE	3-6
+Eucrypta chrysanthemifolia var. chrysanthemifolia	Common eucrypta	Annual herb	native	BORAGINACEAE	3-6
+Eulobus californicus	California primrose	Annual herb	native	ONAGRACEAE	2-5
+Euphorbia crenulata	Chinesecaps	Annual, Perennial herb	native	EUPHORBIACEAE	5-8
+Euphorbia peplus	Petty spurge	Annual herb	non-native	EUPHORBIACEAE	2-8
+Euphorbia spathulata	Reticulate seeded spurge	Annual herb	native	EUPHORBIACEAE	3-5
+Euthamia occidentalis	Western goldenrod	Perennial herb	native	ASTERACEAE	8-10
+Festuca bromoides	Brome fescue	Annual grass	non-native	POACEAE	4-6
+Festuca microstachys	Small fescue	Annual grass	native	POACEAE	4-6
+Festuca myuros	Rattail sixweeks grass	Annual grass	invasive non-native	POACEAE	2-5
+Festuca octoflora	Sixweeks grass	Annual grass	native	POACEAE	3-6
+Festuca perennis	Italian rye grass	Annual, Perennial grass	invasive non-native	POACEAE	5-9
+Festuca temulenta	Darnel, tares	Annual grass	non-native	POACEAE	4-6
+Foeniculum vulgare	Fennel	Perennial herb	invasive non-native	APIACEAE	5-9
+Frangula californica	California coffeeberry	Shrub	native	RHAMNACEAE	6-8
+Frangula californica ssp. californica	California coffeeberry	Shrub	native	RHAMNACEAE	4-5
+Frangula californica ssp. tomentella	Hoary coffeeberry	Shrub	native	RHAMNACEAE	6-8
+Fraxinus dipetala	Two petaled ash	Tree, Shrub	native	OLEACEAE	3-6
+Fraxinus velutina	Arizona ash	Tree	native	OLEACEAE	5-6
+Fremontodendron californicum	California fremontia	Shrub	native	MALVACEAE	5-6
+Fritillaria biflora	Chocolate lily	Perennial herb	native	LILIACEAE	3-4
+Fritillaria biflora var. biflora	Chocolate lily	Perennial herb (bulb)	native	LILIACEAE	3-4
+Galium andrewsii	Phlox leaved bedstraw	Perennial herb	native	RUBIACEAE	4-7
+Galium andrewsii ssp. andrewsii	Phlox leaved bedstraw	Perennial herb	native	RUBIACEAE	4-7
+Galium andrewsii ssp. intermedium	Phlox leaved bedstraw	Perennial herb	native	RUBIACEAE	4-7
+Galium angustifolium ssp. angustifolium	Narrow leaved bedstraw	Perennial herb	native	RUBIACEAE	3-3
+Galium aparine	Cleavers	Annual herb	native	RUBIACEAE	4-5
+Galium nuttallii	Climbing bedstraw	Perennial herb	native	RUBIACEAE	3-7
+Galium nuttallii ssp. nuttallii	Climbing bedstraw	Perennial herb	native	RUBIACEAE	3-6
+Galium porrigens	Climbing bedstraw	Vine, Shrub	native	RUBIACEAE	2-4
+Galium porrigens var. porrigens	Graceful bedstraw	Vine, Shrub	native	RUBIACEAE	3-4
+Garrya flavescens	Ashy silk tassel	Shrub	native	GARRYACEAE	2-4
+Garrya veatchii	Southern silk tassel	Shrub	native	GARRYACEAE	2-4
+Gastridium phleoides	Nit grass	Annual grass	non-native	POACEAE	4-11
+Geranium carolinianum	Carolina geranium	Annual herb	native	GERANIACEAE	4-6
+Geranium dissectum	Wild geranium	Annual herb	invasive non-native	GERANIACEAE	3-10
+Geranium molle	Crane's bill geranium	Annual, Perennial herb	invasive non-native	GERANIACEAE	2-7
+Gilia achilleifolia	California gilia	Annual herb	native	POLEMONIACEAE	2-4
+Gilia achilleifolia ssp. achilleifolia	California gilia	Annual herb	native	POLEMONIACEAE	2-4
+Gilia achilleifolia ssp. multicaulis	Many stemmed gilia	Annual herb	native	POLEMONIACEAE	2-4
+Gilia angelensis	Chaparral gilia	Annual herb	native	POLEMONIACEAE	3-5
+Gilia austro-occidentalis	Southwestern gilia	Annual herb	native	POLEMONIACEAE	3-5
+Gilia capitata	Blue field gilia	Annual herb	native	POLEMONIACEAE	2-4
+Gilia capitata ssp. abrotanifolia	Ball gilia	Annual herb	native	POLEMONIACEAE	2-4
+Gilia clivorum	Purple spot gilia	Annual herb	native	POLEMONIACEAE	2-6
+Gilia latiflora ssp. cuyamensis	Cuyama gilia	Annual herb	native	POLEMONIACEAE	4-6
+Gilia minor	Little gilia	Annual herb	native	POLEMONIACEAE	3-4
+Gilia ochroleuca ssp. bizonata	Volcanic gilia	Annual herb	native	POLEMONIACEAE	3-7
+Gilia ochroleuca ssp. exilis	Volcanic gilia	Annual herb	native	POLEMONIACEAE	3-8
+Glycyrrhiza lepidota	Lichorice	Perennial herb	native	FABACEAE	6-8
+Gnaphalium palustre	Lowland cudweed	Annual herb	native	ASTERACEAE	5-9
+Grindelia camporum	Gumweed	Perennial herb	native	ASTERACEAE	4-10
+Grindelia hirsutula	Gumweed	Perennial herb	native	ASTERACEAE	6-9
+Hazardia squarrosa	Saw toothed goldenbush	Shrub	native	ASTERACEAE	6-10
+Hazardia squarrosa var. grindelioides	Gum plant goldenbush	Shrub	native	ASTERACEAE	6-10
+Hazardia squarrosa var. squarrosa	Saw toothed goldenbush	Shrub	native	ASTERACEAE	6-10
+Hedypnois cretica	Crete weed	Annual herb	non-native	ASTERACEAE	2-6
+Helenium puberulum	Sneezeweed	Perennial herb	native	ASTERACEAE	6-8
+Helianthus bolanderi	Bolander's sunflower	Annual, Perennial herb	native	ASTERACEAE	6-10
+Hemizonia congesta	Hayfield tarweed	Annual herb	native	ASTERACEAE	4-12
+Hemizonia congesta ssp. luzulifolia	Woodrush tarweed	Annual herb	native	ASTERACEAE	8-10
+Hesperocyparis sargentii	Sargent cypress	Tree, Shrub	native	CUPRESSACEAE
+Hesperolinon micranthum	Small flower western flax	Annual herb	native	LINACEAE	5-6
+Hesperoyucca whipplei	Chaparral yucca	Shrub	native	AGAVACEAE	4-6
+Heteromeles arbutifolia	Toyon	Shrub	native	ROSACEAE	6-8
+Heterotheca grandiflora	Telegraph weed	Annual, Perennial herb	native	ASTERACEAE	1-12
+Heterotheca sessiliflora ssp. echioides	Bristly goldenaster	Perennial herb	native	ASTERACEAE	3-12
+Heterotheca sessiliflora ssp. fastigiata	Erect goldenaster	Perennial herb	native	ASTERACEAE	3-12
+Hirschfeldia incana	Mustard	Perennial herb	invasive non-native	BRASSICACEAE	1-12
+Hoita macrostachya	California hemp	Perennial herb	native	FABACEAE	6-7
+Holodiscus discolor var. discolor	Oceanspray	Shrub	native	ROSACEAE	5-7
+Hordeum marinum	Seaside barley	Annual grass	invasive non-native	POACEAE	3-5
+Hordeum marinum ssp. gussoneanum	Barley	Annual grass	non-native	POACEAE	3-5
+Hordeum murinum ssp. leporinum	Farmer's foxtail	Annual grass	non-native	POACEAE	4-7
+Hordeum vulgare	Common barley	Annual grass	non-native	POACEAE	3-5
+Hypochaeris glabra	Smooth cats ear	Annual herb	invasive non-native	ASTERACEAE	3-6
+Hypochaeris radicata	Hairy cats ear	Perennial herb	invasive non-native	ASTERACEAE	4-12
+Isocoma menziesii var. vernonioides	Green leaved dune goldenbush	Shrub	native	ASTERACEAE	4-11
+Iva axillaris	Povertyweed	Perennial herb	native	ASTERACEAE	4-10
+Juglans californica	Southern california black walnut	Tree	native	JUGLANDACEAE	3-6
+Juglans hindsii	Northern california black walnut	Tree	native	JUGLANDACEAE	4-5
+Juncus balticus ssp. ater	Baltic rush	Perennial grasslike herb	native	JUNCACEAE	5-6
+Juncus bufonius	Common toad rush	Annual grasslike herb	native	JUNCACEAE	3-5
+Juncus bufonius var. bufonius	Toad rush	Annual grasslike herb	native	JUNCACEAE	3-5
+Juncus macrophyllus	Rush	Perennial grasslike herb	native	JUNCACEAE
+Juncus mexicanus	Mexican rush	Perennial grasslike herb	native	JUNCACEAE	3-5
+Juncus xiphioides	Iris leaved rush	Perennial grasslike herb	native	JUNCACEAE	5-7
+Juniperus californica	California juniper	Shrub	native	CUPRESSACEAE
+Keckiella breviflora	Gaping keckiella	Shrub	native	PLANTAGINACEAE	4-7
+Keckiella breviflora var. breviflora	Gaping penstemon	Shrub	native	PLANTAGINACEAE	5-9
+Keckiella cordifolia	Heart leaved keckiella	Shrub	native	PLANTAGINACEAE	3-8
+Koeleria macrantha	June grass	Perennial grass	native	POACEAE	5-6
+Lactuca saligna	Willow lettuce	Annual herb	non-native	ASTERACEAE	7-10
+Lactuca serriola	Prickly lettuce	Annual herb	invasive non-native	ASTERACEAE	5-9
+Lagophylla ramosissima	Common hareleaf	Annual herb	native	ASTERACEAE	4-10
+Lamarckia aurea	Goldentop	Annual grass	non-native	POACEAE	2-5
+Lamium amplexicaule	Henbit	Annual herb	non-native	LAMIACEAE	2-9
+Lasthenia californica	Goldfields	Annual herb	native	ASTERACEAE	2-6
+Lasthenia gracilis	Needle goldfields	Annual herb	native	ASTERACEAE	2-6
+Lathyrus vestitus	Common pacific pea	Perennial herb	native	FABACEAE	1-5
+Lathyrus vestitus var. vestitus	Hillside pea	Perennial herb	native	FABACEAE	3-5
+Layia platyglossa	Tidy tips	Annual herb	native	ASTERACEAE	2-5
+Lemna minor	Smaller duckweed	Perennial herb	native	ARACEAE	6-8
+Lemna minuta	Least duckweed	Perennial herb	native	ARACEAE	8-8
+Lepidium lasiocarpum ssp. lasiocarpum	Shaggyfruit pepperweed	Annual herb	native	BRASSICACEAE	2-5
+Lepidium nitidum	Shining pepper grass	Annual herb	native	BRASSICACEAE	2-5
+Lepidium strictum	Peppergrass	Annual herb	native	BRASSICACEAE	3-5
+Lepidium virginicum ssp. menziesii	Robinson's pepper grass	Annual herb	native	BRASSICACEAE	1-7
+Lepidospartum squamatum	Scalebroom	Shrub	native	ASTERACEAE	8-11
+Leptosiphon androsaceus	False babystars	Annual herb	native	POLEMONIACEAE	3-6
+Leptosiphon parviflorus	Variable linanthus	Annual herb	native	POLEMONIACEAE	3-6
+Leptosyne bigelovii	Bigelow coreopsis	Annual herb	native	ASTERACEAE	2-5
+Leptosyne douglasii	Douglas' coreopsis	Annual herb	native	ASTERACEAE	3-5
+Ligustrum lucidum	Glossy privet	Tree, Shrub	invasive non-native	OLEACEAE	6-9
+Lilium humboldtii	Humboldt's lily	Perennial herb	native	LILIACEAE	4-7
+Lilium humboldtii ssp. ocellatum	Humboldt lily	Perennial herb (bulb)	native	LILIACEAE	3-7
+Linanthus californicus	Prickly phlox	Shrub	native	POLEMONIACEAE	2-8
+Lithophragma affine	Common woodland star	Perennial herb	native	SAXIFRAGACEAE	3-5
+Lithophragma bolanderi	Hillstar	Perennial herb	native	SAXIFRAGACEAE	2-7
+Lithophragma cymbalaria	Mission star	Perennial herb	native	SAXIFRAGACEAE	3-5
+Lobelia dunnii	Dunn's lobelia	Perennial herb	native	CAMPANULACEAE	7-10
+Lobelia dunnii var. serrata	Dunn's lobelia	Perennial herb	native	CAMPANULACEAE	7-10
+Loeseliastrum schottii	Schott gilia	Annual herb	native	POLEMONIACEAE	3-6
+Logfia filaginoides	California cottonrose	Annual herb	native	ASTERACEAE	3-6
+Logfia gallica	Narrowleaf cottonrose	Annual herb	non-native	ASTERACEAE	4-6
+Lomatium caruifolium	Caraway leaved lomatium	Perennial herb	native	APIACEAE	3-5
+Lomatium dasycarpum	Lace parsnip	Perennial herb	native	APIACEAE	3-6
+Lomatium dasycarpum ssp. dasycarpum	Woolly fruited lomatium	Perennial herb	native	APIACEAE	3-6
+Lomatium utriculatum	Hog fennel	Perennial herb	native	APIACEAE	3-4
+Lomatium vaginatum	Sheathed lomatium	Perennial herb	native	APIACEAE	4-5
+Lonicera interrupta	Chaparral honeysuckle	Vine, Shrub	native	CAPRIFOLIACEAE	4-8
+Lonicera subspicata	Southern honeysuckle	Shrub	native	CAPRIFOLIACEAE	5-8
+Lonicera subspicata var. denudata	Johnston's honeysuckle	Shrub	native	CAPRIFOLIACEAE	5-8
+Lonicera subspicata var. subspicata	Southern honeysuckle	Shrub	native	CAPRIFOLIACEAE	5-8
+Lupinus albifrons	Silver bush lupine	Shrub	native	FABACEAE	4-7
+Lupinus albifrons var. albifrons	Silver bush lupine	Shrub	native	FABACEAE	4-7
+Lupinus albifrons var. collinus	Silver bush lupine	Shrub	native	FABACEAE	4-7
+Lupinus bicolor	Lupine	Annual, Perennial herb	native	FABACEAE	3-6
+Lupinus excubitus	Grape lupine	Shrub	native	FABACEAE	5-7
+Lupinus formosus	Western lupine	Perennial herb	native	FABACEAE	6-10
+Lupinus hirsutissimus	Stinging lupine	Annual herb	native	FABACEAE	3-5
+Lupinus latifolius	Broad leaf lupine	Perennial herb	native	FABACEAE	4-5
+Lupinus luteolus	Butter lupine	Annual herb	native	FABACEAE	6-7
+Lupinus microcarpus var. densiflorus	Chick lupine	Annual herb	native	FABACEAE	5-6
+Lupinus microcarpus var. microcarpus	Chick lupine	Annual herb	native	FABACEAE	5-6
+Lupinus nanus	Valley sky lupine	Annual herb	native	FABACEAE	3-5
+Lupinus sparsiflorus	Coulter's lupine	Annual herb	native	FABACEAE	3-4
+Lupinus succulentus	Arroyo lupine	Annual herb	native	FABACEAE	2-5
+Lupinus truncatus	Blunt leaved lupine	Annual herb	native	FABACEAE	3-5
+Lysimachia arvensis	Scarlet pimpernel	Annual herb	non-native	MYRSINACEAE	3-9
+Madia gracilis	Gumweed	Annual herb	native	ASTERACEAE	4-7
+Malacothamnus fasciculatus var. nuttallii	Nuttall's bush mallow	Shrub	native	MALVACEAE	4-7
+Malacothrix californica	Desert dandelion	Annual herb	native	ASTERACEAE	3-5
+Malacothrix floccifera	Woolly malacothrix	Annual herb	native	ASTERACEAE	3-11
+Malacothrix phaeocarpa	Central coast malacothrix	Annual herb	native	ASTERACEAE	4-6
+Malacothrix saxatilis	Cliff aster	Perennial herb	native	ASTERACEAE	6-12
+Malacothrix saxatilis var. tenuifolia	Short leaved cliff aster	Perennial herb	native	ASTERACEAE	1-12
+Malosma laurina	Laurel sumac	Tree, Shrub	native	ANACARDIACEAE	2-5
+Malva nicaeensis	Bull mallow	Annual herb	non-native	MALVACEAE	3-5
+Malva parviflora	Cheeseweed	Annual herb	non-native	MALVACEAE	3-10
+Marah fabacea	California man-root	Perennial herb, Vine	native	CUCURBITACEAE	3-4
+Marrubium vulgare	White horehound	Perennial herb	invasive non-native	LAMIACEAE	5-8
+Matricaria discoidea	Pineapple weed	Annual herb	native	ASTERACEAE	5-9
+Matricaria occidentalis	Valley mayweed	Annual herb	native	ASTERACEAE	3-8
+Medicago polymorpha	California burclover	Annual herb	invasive non-native	FABACEAE	2-6
+Medicago sativa	Alfalfa	Perennial herb	non-native	FABACEAE	6-8
+Melica californica	California melic	Perennial grass	native	POACEAE	6-8
+Melica imperfecta	Coast range melic	Perennial grass	native	POACEAE	2-3
+Melilotus albus	White sweetclover	Annual, Biennial herb	invasive non-native	FABACEAE	5-9
+Melilotus indicus	Annual yellow sweetclover	Annual herb	non-native	FABACEAE	4-10
+Mentzelia dispersa	Scattered blazing star	Annual herb	native	LOASACEAE	5-8
+Mentzelia micrantha	Small flowered stickleaf	Annual herb	native	LOASACEAE	4-6
+Mentzelia veatchiana	Veatch's blazing star	Annual herb	native	LOASACEAE	3-6
+Micranthes californica	Greene's saxifrage	Perennial herb	native	SAXIFRAGACEAE	3-4
+Micropus californicus	Q tips	Annual herb	native	ASTERACEAE	4-5
+Micropus californicus var. californicus	Slender cottonweed	Annual herb	native	ASTERACEAE	4-5
+Microseris douglasii	Douglas' microseris	Annual herb	native	ASTERACEAE	3-5
+Microseris douglasii ssp. douglasii	Douglas' microseris	Annual herb	native	ASTERACEAE	3-5
+Microseris elegans	Elegant silverpuffs	Annual herb	native	ASTERACEAE	4-5
+Microsteris gracilis	Slender phlox	Annual herb	native	POLEMONIACEAE	2-6
+Mimulus aurantiacus	Sticky monkeyflower	Shrub	native	PHRYMACEAE	3-8
+Mimulus aurantiacus var. pubescens	Sticky monkeyflower	Shrub	native	PHRYMACEAE	3-8
+Mimulus brevipes	Wide throated yellow monkeyflower	Annual herb	native	PHRYMACEAE	4-7
+Mimulus cardinalis	Cardinal monkey flower	Perennial herb	native	PHRYMACEAE	3-5
+Mimulus guttatus	Yellow monkey flower	Annual, Perennial herb (rhizomatous)	native	PHRYMACEAE	4-6
+Mimulus johnstonii	Johnston's monkeyflower	Annual herb	native	PHRYMACEAE	5-8
+Minuartia douglasii	Douglas' sandwort	Annual herb	native	CARYOPHYLLACEAE	4-6
+Monardella breweri	Brewer's monardella	Annual herb	native	LAMIACEAE	6-8
+Monardella breweri ssp. breweri	Brewer's monardella	Annual herb	native	LAMIACEAE	6-8
+Monolopia lanceolata	Common monolopia	Annual herb	native	ASTERACEAE	3-5
+Monolopia major	Cupped monolopia	Annual herb	native	ASTERACEAE	2-7
+Muhlenbergia microsperma	Littleseed muhly	Annual grass	native	POACEAE	3-5
+Muhlenbergia rigens	Deergrass	Perennial grass	native	POACEAE	5-6
+Muhlenbergia utilis	Aparejo grass	Perennial grass	native	POACEAE	10-3
+Nasturtium officinale	Watercress	Perennial herb (aquatic)	native	BRASSICACEAE	5-9
+Navarretia mitracarpa	Paso robles navarretia	Annual herb	native	POLEMONIACEAE	5-7
+Nemophila menziesii	Baby blue eyes	Annual herb	native	BORAGINACEAE	3-6
+Nemophila menziesii var. integrifolia	Baby blue eyes	Annual herb	native	BORAGINACEAE	3-6
+Nemophila menziesii var. menziesii	Baby blue eyes	Annual herb	native	BORAGINACEAE	3-6
+Nemophila pedunculata	Meadow nemophila	Annual herb	native	BORAGINACEAE	2-7
+Nicotiana glauca	Tree tobacco	Tree, Shrub	invasive non-native	SOLANACEAE	3-9
+Orobanche californica	California orobanche	Perennial herb (parasitic)	native	OROBANCHACEAE	5-8
+Orobanche californica ssp. feudgei	California broomrape	Perennial herb (parasitic)	native	OROBANCHACEAE	5-8
+Orobanche fasciculata	Clustered broomrape	Perennial herb (parasitic)	native	OROBANCHACEAE	3-8
+Orobanche vallicola	Valley broom rape	Annual herb	native	OROBANCHACEAE	7-9
+Osmorhiza brachypoda	California sweet cicely	Perennial herb	native	APIACEAE	3-5
+Paeonia californica	California peony	Perennial herb	native	PAEONIACEAE	2-4
+Papaver heterophyllum	Wind poppy	Annual herb	native	PAPAVERACEAE	4-5
+Parkinsonia aculeata	Jerusalem thorn	Tree	invasive non-native	FABACEAE	4-10
+Parthenocissus inserta	Woodbine	Vine, Shrub	native	VITACEAE	4-6
+Pectocarya linearis ssp. ferocula	Slender comb seed	Annual herb	native	BORAGINACEAE	3-5
+Pediomelum californicum	Indian breadroot	Perennial herb	native	FABACEAE	4-7
+Pellaea andromedifolia	Coffee fern	Fern	native	PTERIDACEAE
+Pellaea mucronata	Bird's foot fern	Fern	native	PTERIDACEAE
+Pellaea mucronata var. mucronata	Bird's foot fern	Fern	native	PTERIDACEAE
+Penstemon centranthifolius	Scarlet bugler	Perennial herb	native	PLANTAGINACEAE	4-7
+Penstemon heterophyllus	Foothill penstemon	Perennial herb	native	PLANTAGINACEAE	5-7
+Penstemon heterophyllus var. australis	Southern foothill penstemon	Perennial herb	native	PLANTAGINACEAE	5-7
+Pentagramma triangularis	Gold back fern	Fern	native	PTERIDACEAE
+Pentagramma triangularis ssp. triangularis	Gold back fern	Fern	native	PTERIDACEAE
+Phacelia californica	Rock phacelia	Perennial herb	native	BORAGINACEAE	3-8
+Phacelia cicutaria var. cicutaria	Caterpillar phacelia	Annual herb	native	BORAGINACEAE	3-5
+Phacelia cicutaria var. hispida	Caterpillar phacelia	Annual herb	native	BORAGINACEAE	3-5
+Phacelia distans	Common phacelia	Annual herb	native	BORAGINACEAE	3-6
+Phacelia imbricata	Imbricate phacelia	Perennial herb	native	BORAGINACEAE	2-4
+Phacelia imbricata ssp. imbricata	Imbricate phacelia	Perennial herb	native	BORAGINACEAE	2-4
+Phacelia longipes	Long stalk phacelia	Annual herb	native	BORAGINACEAE	4-7
+Phacelia ramosissima	Branching phacelia	Perennial herb	native	BORAGINACEAE	5-8
+Phacelia viscida var. albiflora	Sticky phacelia	Annual herb	native	BORAGINACEAE	3-6
+Pholistoma auritum	Fiesta flower	Annual herb	native	BORAGINACEAE	3-5
+Pholistoma auritum var. auritum	Blue fiesta flower	Annual herb	native	BORAGINACEAE	3-5
+Phoradendron bolleanum	Bollean mistletoe	Shrub (parasitic)	native	VISCACEAE	6-8
+Phoradendron leucarpum ssp. macrophyllum	Big leaf mistletoe	Shrub (parasitic)	native	VISCACEAE
+Phoradendron leucarpum ssp. tomentosum	Mistletoe	Shrub (parasitic)	native	VISCACEAE	12-3
+Physalis philadelphica	Tomatillo	Annual herb	non-native	SOLANACEAE	5-9
+Pickeringia montana	Chaparral pea	Shrub	native	FABACEAE	5-8
+Pinus coulteri	Coulter pine	Tree	native	PINACEAE	5-6
+Pinus jeffreyi	Jeffrey pine	Tree	native	PINACEAE	5-6
+Pinus ponderosa	Yellow pine	Tree	native	PINACEAE	4-5
+Pinus sabiniana	Bull pine	Tree	native	PINACEAE	2-3
+Piperia michaelii	Michael's rein orchid	Perennial herb	native	ORCHIDACEAE	4-8
+Plagiobothrys acanthocarpus	Adobe allocarya	Annual herb	native	BORAGINACEAE	2-3
+Plagiobothrys nothofulvus	Rusty haired popcorn flower	Annual herb	native	BORAGINACEAE	2-4
+Plagiobothrys tenellus	Slender popcorn flower	Annual herb	native	BORAGINACEAE	3-5
+Plagiobothrys trachycarpus	Rough fruited allocarya	Annual herb	native	BORAGINACEAE	3-5
+Plagiobothrys undulatus	Coast allocarya	Annual herb	native	BORAGINACEAE	4-5
+Plantago erecta	California plantain	Annual herb	native	PLANTAGINACEAE	3-4
+Plantago lanceolata	Ribwort	Perennial herb	invasive non-native	PLANTAGINACEAE	3-8
+Plantago ovata	Desert plantain	Annual herb	native	PLANTAGINACEAE	1-4
+Platanus racemosa	California sycamore	Tree	native	PLATANACEAE	2-5
+Platystemon californicus	Cream cups	Annual herb	native	PAPAVERACEAE	2-5
+Plectritis ciliosa	Long spurred plectritis	Annual herb	native	VALERIANACEAE	3-4
+Poa annua	Annual blue grass	Annual grass	non-native	POACEAE	4-5
+Poa bulbosa	Bulbous blue grass	Perennial grass	non-native	POACEAE	5-6
+Poa secunda	Pine bluegrass	Perennial grass	native	POACEAE	5-6
+Poa secunda ssp. secunda	Sandberg's bluegrass	Perennial grass	native	POACEAE	5-6
+Polygonum aviculare ssp. depressum	Prostrate knotweed	Annual, Perennial herb	non-native	POLYGONACEAE	5-12
+Polypodium californicum	California polypody	Fern	native	POLYPODIACEAE
+Polypogon interruptus	Ditch beard grass	Perennial grass	non-native	POACEAE	5-8
+Polypogon monspeliensis	Annual beard grass	Annual grass	invasive non-native	POACEAE	5-6
+Polypogon viridis	Water beard grass	Perennial grass	non-native	POACEAE	5-6
+Polystichum munitum	Western sword fern	Fern	native	DRYOPTERIDACEAE
+Populus fremontii	Fremont cottonwood	Tree	native	SALICACEAE	2-3
+Populus fremontii ssp. fremontii	Cottonwood	Tree	native	SALICACEAE	2-3
+Populus trichocarpa	Black cottonwood	Tree	native	SALICACEAE	2-4
+Portulaca halimoides	Purslane	Annual herb	native	PORTULACACEAE	9-9
+Poteridium annuum	Western burnet	Annual, Perennial herb	native	ROSACEAE	4-7
+Primula clevelandii	Padre's shooting star	Perennial herb	native	PRIMULACEAE	3-4
+Primula clevelandii var. gracilis	Padre's shooting star	Perennial herb	native	PRIMULACEAE	3-4
+Primula clevelandii var. insularis	Padre's shooting star	Perennial herb	native	PRIMULACEAE	3-4
+Proboscidea louisianica ssp. louisianica	Common devil's claw	Annual herb	non-native	MARTYNIACEAE	5-8
+Prunus emarginata	Bitter cherry	Tree, Shrub	native	ROSACEAE	4-5
+Prunus fasciculata var. punctata	Sand almond	Shrub	native	ROSACEAE	3-4
+Prunus ilicifolia	Holly leaf cherry	Tree, Shrub	native	ROSACEAE	2-4
+Prunus ilicifolia ssp. ilicifolia	Holly leaf cherry	Tree, Shrub	native	ROSACEAE	2-4
+Prunus virginiana var. demissa	Western choke cherry	Tree, Shrub	native	ROSACEAE	3-5
+Pseudognaphalium biolettii	Two-color rabbit-tobacco	Perennial herb	native	ASTERACEAE	1-5
+Pseudognaphalium californicum	Ladies' tobacco	Annual, Perennial herb	native	ASTERACEAE	1-7
+Pseudognaphalium luteoalbum	Jersey cudweed	Annual herb	non-native	ASTERACEAE	3-8
+Pseudognaphalium microcephalum	Wright's cudweed	Perennial herb	native	ASTERACEAE	7-10
+Pseudognaphalium stramineum	Cottonbatting plant	Perennial herb	native	ASTERACEAE	5-10
+Pseudotsuga macrocarpa	Bigcone spruce	Tree	native	PINACEAE	2-3
+Psilocarphus tenellus	Slender woolly heads	Annual herb	native	ASTERACEAE	4-6
+Pterostegia drymarioides	Fairy mist	Annual herb	native	POLYGONACEAE	2-7
+Pyracantha angustifolia	Firethorn	Shrub	invasive non-native	ROSACEAE	2-6
+Quercus agrifolia	Coast live oak	Tree	native	FAGACEAE	2-4
+Quercus agrifolia var. agrifolia	Coast live oak	Tree	native	FAGACEAE	2-3
+Quercus berberidifolia	Inland scrub oak	Tree	native	FAGACEAE	2-3
+Quercus chrysolepis	Gold cup live oak	Tree	native	FAGACEAE	5-6
+Quercus douglasii	Blue oak	Tree	native	FAGACEAE	3-5
+Quercus dumosa	Scrub oak	Shrub	native	FAGACEAE	2-3
+Quercus durata var. durata	Leather oak	Shrub	native	FAGACEAE	4-5
+Quercus kelloggii	California black oak	Tree	native	FAGACEAE	5-6
+Quercus lobata	Valley oak	Tree	native	FAGACEAE	2-3
+Quercus wislizeni	Interior live oak	Tree, Shrub	native	FAGACEAE	3-5
+Quercus wislizeni var. frutescens	Live oak	Tree, Shrub	native	FAGACEAE	3-5
+Quercus wislizeni var. wislizeni	Interior live oak	Tree, Shrub	native	FAGACEAE	3-5
+Rafinesquia californica	California chicory	Annual herb	native	ASTERACEAE	4-7
+Ranunculus californicus	Common buttercup	Perennial herb	native	RANUNCULACEAE	2-5
+Ranunculus californicus var. californicus	Common buttercup	Perennial herb	native	RANUNCULACEAE	2-5
+Ranunculus hebecarpus	Pubescent fruited buttercup	Annual herb	native	RANUNCULACEAE	3-5
+Raphanus sativus	Jointed charlock	Annual, Biennial herb	invasive non-native	BRASSICACEAE	2-7
+Rhamnus crocea	Redberry	Shrub	native	RHAMNACEAE	2-3
+Rhamnus ilicifolia	Evergreen buckthorn	Shrub	native	RHAMNACEAE	4-6
+Rhus ovata	Sugar bush	Shrub	native	ANACARDIACEAE	4-5
+Ribes amarum	Bitter gooseberry	Shrub	native	GROSSULARIACEAE	3-6
+Ribes californicum	California gooseberry	Shrub	native	GROSSULARIACEAE	1-3
+Ribes californicum var. californicum	California gooseberry	Shrub	native	GROSSULARIACEAE	2-3
+Ribes californicum var. hesperium	California gooseberry	Shrub	native	GROSSULARIACEAE	1-3
+Ribes indecorum	White flowering currant	Shrub	native	GROSSULARIACEAE	1-2
+Ribes malvaceum	Chaparral currant	Shrub	native	GROSSULARIACEAE	12-3
+Ribes malvaceum var. malvaceum	Chaparral currant	Shrub	native	GROSSULARIACEAE	12-3
+Ribes malvaceum var. viridifolium	Chaparral currant	Shrub	native	GROSSULARIACEAE	12-3
+Ribes menziesii	Gooseberry	Shrub	native	GROSSULARIACEAE	1-3
+Ribes roezlii	Sierra gooseberry	Shrub	native	GROSSULARIACEAE	2-6
+Ribes speciosum	Fuchsia flowered gooseberry	Shrub	native	GROSSULARIACEAE	1-5
+Rigiopappus leptocladus	Wire weed	Annual herb	native	ASTERACEAE	4-7
+Robinia pseudoacacia	Black locust	Tree	invasive non-native	FABACEAE	3-6
+Rosa californica	California wild rose	Shrub	native	ROSACEAE	5-8
+Rubus ursinus	California blackberry	Vine, Shrub	native	ROSACEAE	2-5
+Rumex conglomeratus	Green dock	Perennial herb	non-native	POLYGONACEAE	5-8
+Rumex crispus	Curly dock	Perennial herb	invasive non-native	POLYGONACEAE	1-12
+Rumex salicifolius	Willow leaved dock	Perennial herb	native	POLYGONACEAE	6-9
+Salix laevigata	Polished willow	Tree	native	SALICACEAE	2-5
+Salix lasiolepis	Arroyo willow	Tree, Shrub	native	SALICACEAE	2-5
+Salsola tragus	Russian thistle	Annual herb	invasive non-native	CHENOPODIACEAE	7-10
+Salvia apiana	White sage	Shrub	native	LAMIACEAE	4-7
+Salvia carduacea	Thistle sage	Annual herb	native	LAMIACEAE	3-5
+Salvia columbariae	Chia sage	Annual herb	native	LAMIACEAE	3-6
+Salvia leucophylla	Purple sage	Shrub	native	LAMIACEAE	4-7
+Salvia mellifera	Black sage	Shrub	native	LAMIACEAE	3-7
+Salvia spathacea	Hummingbird sage	Perennial herb	native	LAMIACEAE	2-7
+Sambucus nigra ssp. caerulea	Blue elderberry	Shrub	native	ADOXACEAE	3-7
+Sanicula arguta	Sharp toothed snakeroot	Perennial herb	native	APIACEAE	3-4
+Sanicula bipinnata	Poison sanicle	Perennial herb	native	APIACEAE	3-4
+Sanicula crassicaulis	Pacific sanicle	Perennial herb	native	APIACEAE	2-4
+Sanicula tuberosa	Turkey pea	Perennial herb	native	APIACEAE	2-7
+Schinus molle	Peruvian pepper tree	Tree	invasive non-native	ANACARDIACEAE	3-6
+Schismus barbatus	Old han schismus	Annual grass	invasive non-native	POACEAE	3-4
+Schoenoplectus pungens var. badius	Common threesquare	Perennial grasslike herb	native	CYPERACEAE
+Scrophularia californica	California bee plant	Perennial herb	native	SCROPHULARIACEAE	2-5
+Secale cereale	Rye	Annual grass	non-native	POACEAE	2-3
+Selaginella bigelovii	Bigelow's moss fern	Fern (mosslike)	native	SELAGINELLACEAE
+Senecio flaccidus var. douglasii	Bush groundsel	Shrub	native	ASTERACEAE	6-10
+Senecio vulgaris	Common groundsel	Annual herb	non-native	ASTERACEAE	1-12
+Sidalcea malviflora	Wild hollyhock	Perennial herb	native	MALVACEAE	5-8
+Sidalcea malviflora ssp. californica	California checker mallow	Perennial herb (rhizomatous)	native	MALVACEAE	5-8
+Sidalcea sparsifolia	Southern checkerbloom	Perennial herb (rhizomatous)	native	MALVACEAE	3-6
+Silene antirrhina	Sleepy catch fly	Annual herb	native	CARYOPHYLLACEAE	4-8
+Silene gallica	Common catchfly	Annual herb	non-native	CARYOPHYLLACEAE	1-6
+Silene laciniata ssp. laciniata	Cardinal catchfly	Perennial herb	native	CARYOPHYLLACEAE	4-7
+Silene lemmonii	Lemmon's catchfly	Perennial herb	native	CARYOPHYLLACEAE
+Silybum marianum	Milk thistle	Annual, Perennial herb	invasive non-native	ASTERACEAE	4-7
+Sisymbrium officinale	Hedge mustard	Annual herb	non-native	BRASSICACEAE	4-7
+Sisyrinchium bellum	Blue eyed grass	Perennial herb	native	IRIDACEAE	3-5
+Solanum douglasii	Douglas' nightshade	Perennial herb	native	SOLANACEAE	1-12
+Solanum umbelliferum	Blue witch	Shrub	native	SOLANACEAE	1-6
+Solidago velutina ssp. californica	Oreja de liebre	Perennial herb	native	ASTERACEAE	7-10
+Sonchus asper	Spiny sowthistle	Annual herb	invasive non-native	ASTERACEAE	2-10
+Sonchus asper ssp. asper	Sow thistle	Annual herb	invasive non-native	ASTERACEAE	2-10
+Sonchus oleraceus	Sow thistle	Annual herb	non-native	ASTERACEAE	1-12
+Spartium junceum	Spanish broom	Shrub	invasive non-native	FABACEAE	4-6
+Spergularia villosa	Villous sand spurry	Perennial herb	non-native	CARYOPHYLLACEAE	4-5
+Stachys bullata	Southern hedge nettle	Perennial herb	native	LAMIACEAE	4-9
+Stachys pycnantha	Short spike hedge nettle	Perennial herb	native	LAMIACEAE	6-10
+Stachys rigida var. rigida	Rough hedgenettle	Perennial herb	native	LAMIACEAE	7-8
+Stebbinsoseris heterocarpa	Grassland stebbinsoseris	Annual herb	native	ASTERACEAE	4-6
+Stellaria media	Chickweed	Annual herb	non-native	CARYOPHYLLACEAE	2-9
+Stellaria nitens	Shining chickweed	Annual herb	native	CARYOPHYLLACEAE	12-2
+Stellaria pallida	Pale starwort	Annual herb	non-native	CARYOPHYLLACEAE
+Stephanomeria cichoriacea	Fort tejon milk aster	Perennial herb	native	ASTERACEAE	5-11
+Stephanomeria exigua	Small wirelettuce	Annual herb	native	ASTERACEAE	6-10
+Stephanomeria virgata	Twiggy wreath plant	Annual herb	native	ASTERACEAE	7-10
+Stipa cernua	Nodding needle grass	Perennial grass	native	POACEAE	2-7
+Stipa coronata	Crested needle grass	Perennial grass	native	POACEAE	4-6
+Stipa lepida	Foothill needle grass	Perennial grass	native	POACEAE	3-5
+Stipa miliacea var. miliacea	Smilo grass	Perennial grass	invasive non-native	POACEAE	3-9
+Stipa pulchra	Purple needle grass	Perennial grass	native	POACEAE	3-5
+Stuckenia pectinata	Sago pondweed	Perennial herb (aquatic)	native	POTAMOGETONACEAE	5-7
+Symphoricarpos mollis	Snowberry	Shrub	native	CAPRIFOLIACEAE	4-7
+Tamarix ramosissima	Tamarisk	Tree, Shrub	invasive non-native	TAMARICACEAE	4-8
+Tanacetum parthenium	Feverfew	Perennial herb	non-native	ASTERACEAE	6-8
+Tauschia arguta	Southern tauschia	Perennial herb	native	APIACEAE	2-5
+Tetrapteron graciliflorum	Hill sun cup	Annual herb	native	ONAGRACEAE	3-4
+Thysanocarpus curvipes	Common fringe pod	Annual herb	native	BRASSICACEAE	2-4
+Thysanocarpus laciniatus	Narrow leaved lacepod	Annual herb	native	BRASSICACEAE	3-5
+Torilis arvensis	Field hedge parsley	Annual herb	invasive non-native	APIACEAE	5-8
+Toxicodendron diversilobum	Poison oak	Vine, Shrub	native	ANACARDIACEAE	3-6
+Toxicoscordion fremontii	Fremont's star lily	Perennial herb	native	MELANTHIACEAE	3-5
+Toxicoscordion venenosum	Meadow deathcamas	Perennial herb	native	MELANTHIACEAE	5-7
+Toxicoscordion venenosum var. venenosum	Meadow deathcamas	Perennial herb	native	MELANTHIACEAE	5-7
+Trichostema lanatum	Woolly bluecurls	Shrub	native	LAMIACEAE	3-6
+Trichostema lanceolatum	Vinegarweed	Annual herb	native	LAMIACEAE	8-10
+Trifolium albopurpureum	Indian clover	Annual herb	native	FABACEAE	3-6
+Trifolium ciliolatum	Tree clover	Annual herb	native	FABACEAE	4-5
+Trifolium depauperatum var. amplectens	Pale sack clover	Annual herb	native	FABACEAE	2-5
+Trifolium depauperatum var. truncatum	Dwarf sack clover	Annual herb	native	FABACEAE	2-5
+Trifolium fragiferum	Strawberry clover	Perennial herb	non-native	FABACEAE	5-6
+Trifolium fucatum	Bull clover	Annual herb	native	FABACEAE	4-6
+Trifolium gracilentum	Pin point clover	Annual herb	native	FABACEAE	4-6
+Trifolium oliganthum	Few flowered clover	Annual herb	native	FABACEAE	4-5
+Trifolium variegatum	Variegated clover	Annual herb	native	FABACEAE	3-7
+Trifolium willdenovii	Tomcat clover	Annual herb	native	FABACEAE	4-5
+Trifolium wormskioldii	Cow clover	Perennial herb	native	FABACEAE	5-6
+Triteleia ixioides ssp. ixioides	Golden brodiaea	Perennial herb	native	THEMIDACEAE	5-6
+Tropidocarpum gracile	Slender tropidocarpum	Annual herb	native	BRASSICACEAE	3-4
+Typha angustifolia	Narrow leaf cattail	Perennial herb (aquatic)	non-native	TYPHACEAE	5-6
+Typha latifolia	Broadleaf cattail	Perennial herb (aquatic)	native	TYPHACEAE	5-6
+Umbellularia californica	California bay	Tree	native	LAURACEAE	3-5
+Uropappus lindleyi	Silver puffs	Annual herb	native	ASTERACEAE	3-5
+Urtica dioica	Stinging nettle	Perennial herb	native	URTICACEAE	5-9
+Urtica dioica ssp. holosericea	Stinging nettle	Perennial herb	native	URTICACEAE	6-9
+Urtica urens	Annual stinging nettle	Annual herb	non-native	URTICACEAE	1-4
+Venegasia carpesioides	Canyon sunflower	Perennial herb	native	ASTERACEAE	2-5
+Verbascum virgatum	Wand mullein	Perennial herb	non-native	SCROPHULARIACEAE	5-9
+Verbena bracteata	Bracted verbena	Annual, Perennial herb	native	VERBENACEAE	5-9
+Verbena lasiostachys	Western vervain	Perennial herb	native	VERBENACEAE	4-9
+Verbena lasiostachys var. lasiostachys	Vervain	Perennial herb	native	VERBENACEAE	5-9
+Verbena lasiostachys var. scabrida	Robust vervain	Perennial herb	native	VERBENACEAE	5-9
+Veronica anagallis-aquatica	Water speedwell	Perennial herb	non-native	PLANTAGINACEAE	5-9
+Veronica catenata	Chain speedwell	Perennial herb	non-native	PLANTAGINACEAE	5-6
+Veronica peregrina ssp. xalapensis	Speedwell	Annual herb	native	PLANTAGINACEAE	3-7
+Vicia benghalensis	Purple vetch	Annual herb, Vine	non-native	FABACEAE	3-6
+Vicia hassei	Hasse's vetch	Vine	native	FABACEAE	3-5
+Vicia sativa ssp. sativa	Common vetch	Annual herb, Vine	non-native	FABACEAE	2-3
+Vicia villosa	Hairy vetch	Annual herb, Vine	invasive non-native	FABACEAE	2-4
+Vicia villosa ssp. varia	Smooth vetch	Annual herb, Vine	non-native	FABACEAE	3-7
+Viola pedunculata	California golden violet	Perennial herb	native	VIOLACEAE	2-4
+Viola purpurea	Goosefoot violet	Perennial herb	native	VIOLACEAE	4-6
+Viola purpurea ssp. quercetorum	Goosefoot yellow violet	Perennial herb	native	VIOLACEAE	4-6
+Xanthium spinosum	Spiny cocklebur	Annual herb	native	ASTERACEAE	7-10
+Xanthium strumarium	Cocklebur	Annual herb	native	ASTERACEAE	7-10
+Yabea microcarpa	Hedge parsley	Annual herb	native	APIACEAE	4-6
+Zannichellia palustris	Horned pondweed	Perennial herb	native	ZANNICHELLIACEAE	3-11
+Zeltnera exaltata	Cancha lagua	Annual herb	native	GENTIANACEAE	5-8
