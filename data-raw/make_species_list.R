@@ -1,25 +1,44 @@
 rm(list = ls())
 library(tidyverse)
 source('data-raw/species_list_functions.R')
-special_cases <- 'data-raw/special_cases.csv'
-focal_species <- 'data-raw/SedgwickTaxonomy/focalspecies.csv'
+synonyms <- 'data-raw/synonyms.csv'
+hyphenated <- 'data-raw/hyphenated_taxa.csv'
+focal <- 'data-raw/SedgwickTaxonomy/focalspecies.csv'
 
-species <- get_species_list()
-special <- read_csv(special_cases)
-focal <- read_csv(focal_species)
+sedgwick_plants <- get_species_list()
+synonyms <- read_csv(synonyms)
+focal <- read_csv(focal)
+hyphenated <- read_csv(hyphenated)
 
-species <- left_join( species, special, by = 'taxon')
 
-species <-
-  species %>%
-  mutate( taxon = ifelse(!is.na(synonym), synonym, taxon))
+sedgwick_plants <- left_join( sedgwick_plants, synonyms, by = "calflora_binomial")
+
+sedgwick_plants <-
+  sedgwick_plants %>%
+  mutate( standard_binomial = ifelse(is.na(synonym), calflora_binomial, synonym))
 
 focal <-
   focal %>%
   mutate( focal_species = TRUE) %>%
-  rename('taxon' = current_name)
+  mutate(standard_binomial = current_name) %>%
+  mutate(standard_binomial = str_replace_all(standard_binomial, 'Acmispon', 'Lotus'))
 
-species <-
-  left_join(species, focal %>% select(taxon, prior_name, current_code, prior_code, focal_species), by = 'taxon')
+sedgwick_plants <-
+  sedgwick_plants %>%
+  full_join(focal %>% select(standard_binomial, prior_name, current_code, prior_code, focal_species), by = 'standard_binomial') %>%
+  separate( standard_binomial, c('genus', 'species'), sep = ' ', remove = F)
 
-devtools::use_data(species, overwrite = T)
+sedgwick_plants$USDA_symbol <-
+  mapply(x= sedgwick_plants$genus, y=sedgwick_plants$species,
+         FUN = function(x,y) { get_USDA_symbol(x,y,db_root = root) })
+
+sedgwick_plants <-
+  sedgwick_plants %>%
+  left_join(hyphenated, by = 'standard_binomial') %>%
+  mutate(USDA_symbol = ifelse(is.na(USDA_symbol.x),
+                              USDA_symbol.y,
+                              USDA_symbol.x)) %>%
+  select( -USDA_symbol.x, -USDA_symbol.y)
+
+
+devtools::use_data(sedgwick_plants, overwrite = T)

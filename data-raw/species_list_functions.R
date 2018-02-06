@@ -8,12 +8,13 @@ get_species_list <- function(){
 
   species <-
     read_tsv(species_list) %>%
-    separate( taxon, c('taxon', 'var') , sep = ' var. ') %>%
-    separate( taxon, c('taxon', 'ssp.'), sep = ' ssp. ') %>%
-    separate( taxon, c('genus', 'species'), remove = F) %>%
+    rename( 'calflora_taxon' = taxon) %>%
+    mutate( calflora_binomial =
+              str_replace_all(calflora_taxon, c('var\\..*' = '', 'ssp\\..*'=''))) %>%
+    mutate( calflora_binomial = str_trim(calflora_binomial)) %>%
     separate( lifeform, c('life_history', 'form')) %>%
     mutate( status = str_extract(status, c('^native|non-native'))) %>%
-    mutate( code = toupper( paste0( str_sub(genus, 1, 2), str_sub(species, 1,2))))
+    select( -bloom)
 
   return(species)
 }
@@ -25,5 +26,24 @@ get_focal_species <- function(){
   return(focals)
 }
 
+
+root <- api("https://plantsdb.xyz")
+
+get_USDA_symbol <- function(genus, species, db_root) {
+  results <-
+    try(
+      db_root %>%
+        api_path(search) %>%
+        api_query_(Genus = genus, Species = species, fields = "Symbol")
+      , silent = T)
+
+  if(class(results) == 'try-error'){
+    out <- NA
+  }else{
+    out <- results$data[[1]]$Symbol
+  }
+
+  return( out)
+}
 
 
