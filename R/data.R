@@ -5,28 +5,27 @@
 #' in the experiments conducted by Levine, HilleRisLambers, Godoy, Kraft and
 #' others.
 #'
-#' @format A data frame with 732 rows and 17 variables:
+#' @format A data frame with 733 rows and 16 variables:
 #' \describe{
-#'   \item{taxon}{species and genus}
-#'   \item{genus}{genus}
-#'   \item{species}{species}
-#'   \item{ssp.}{subspecies}
-#'   \item{var}{intraspecific variety}
+#'   \item{calflora_taxon}{scientific name from Calflora}
 #'   \item{common}{common name}
 #'   \item{life_history}{annual or perennial}
 #'   \item{form}{growth form, herb or grass etc.}
 #'   \item{status}{native or non-native}
 #'   \item{family}{family}
-#'   \item{bloom}{bloom period, months}
-#'   \item{code}{four letter code of first two letters of genus and species}
-#'   \item{synonym}{hand coded synonym for taxa for which the calflora name is not widely recognized}
+#'   \item{calflora_binomial}{scientific binomial, genus, species from Calflora}
+#'   \item{synonym}{hand coded synonym for taxa for which the Calflora name is not widely recognized}
+#'   \item{standard_binomial}{standard scientific binomial}
+#'   \item{genus}{genus from standard binomial}
+#'   \item{species}{species from standard binomial}
 #'   \item{prior_name}{prior name used by Levine et al.}
 #'   \item{current_code}{current code used by Levine et al.}
 #'   \item{prior_code}{prior code used by Levine et al.}
 #'   \item{focal_species}{Logical, whether this was used as a focal species in previous research by Levine et al.}
+#'   \item{USDA_symbol}{standard code from the USDA plants database, codes for the basic species are used rather than codes for particular subspecies or varieties}
 #' }
 #' @source \url{http://www.calflora.org/entry/wgh.html#srch=t&group=none&fmt=photo&inma=t&y=34.6927&x=-120.042&z=12&lpstr=t&lpom=d}
-"species"
+"sedgwick_plants"
 
 #' Focal species names and publication history
 #'
