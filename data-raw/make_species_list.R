@@ -1,5 +1,6 @@
 rm(list = ls())
 library(tidyverse)
+library(stringr)
 source('data-raw/species_list_functions.R')
 synonyms <- 'data-raw/synonyms.csv'
 hyphenated <- 'data-raw/hyphenated_taxa.csv'

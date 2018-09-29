@@ -1,13 +1,14 @@
 library(tidyverse)
-
+library(request)
 get_species_list <- function(){
   # download species list from Calflora What Grows Here?
   url <- 'http://www.calflora.org/entry/wgh.html#srch=t&group=none&fmt=photo&inma=t&y=34.6927&x=-120.042&z=12&lpstr=t&lpom=d'
 
   species_list <- 'data-raw/raw_species_list.txt'
+  naat <- 'data-raw/navarretia_atractyloides.txt'
 
   species <-
-    read_tsv(species_list) %>%
+    bind_rows( read_tsv(species_list), read_tsv(naat)) %>%
     rename( 'calflora_taxon' = taxon) %>%
     mutate( calflora_binomial =
               str_replace_all(calflora_taxon, c('var\\..*' = '', 'ssp\\..*'=''))) %>%

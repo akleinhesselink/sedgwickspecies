@@ -21,7 +21,7 @@
   \item{current_code}{current code used by Levine et al.}
   \item{prior_code}{prior code used by Levine et al.}
   \item{focal_species}{Logical, whether this was used as a focal species in previous research by Levine et al.}
-  \item{USDA_symbol}{Standard code from the USDA plants database. Codes for the species binomial are used rather than codes for a particular subspecies or variety}
+  \item{USDA_symbol}{standard code from the USDA plants database, codes for the basic species are used rather than codes for particular subspecies or varieties}
 }}
 \source{
 \url{http://www.calflora.org/entry/wgh.html#srch=t&group=none&fmt=photo&inma=t&y=34.6927&x=-120.042&z=12&lpstr=t&lpom=d}
