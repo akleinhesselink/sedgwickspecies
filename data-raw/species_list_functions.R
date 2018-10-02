@@ -6,9 +6,10 @@ get_species_list <- function(){
 
   species_list <- 'data-raw/raw_species_list.txt'
   naat <- 'data-raw/navarretia_atractyloides.txt'
+  erbo <- 'data-raw/erodium_botrys.txt'
 
   species <-
-    bind_rows( read_tsv(species_list), read_tsv(naat)) %>%
+    bind_rows( read_tsv(species_list), read_tsv(naat), read_tsv(erbo)) %>%
     rename( 'calflora_taxon' = taxon) %>%
     mutate( calflora_binomial =
               str_replace_all(calflora_taxon, c('var\\..*' = '', 'ssp\\..*'=''))) %>%
