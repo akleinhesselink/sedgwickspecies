@@ -11,6 +11,16 @@ synonyms <- read_csv(synonyms)
 focal <- read_csv(focal)
 hyphenated <- read_csv(hyphenated)
 
+##### Remove subspecies and vars and then remove duplicate entries per species ########
+sedgwick_plants <-
+  sedgwick_plants %>%
+  select(-calflora_taxon) %>%
+  select(calflora_binomial, common:family) %>%
+  distinct() %>%
+  group_by( calflora_binomial ) %>%
+  filter( row_number() == 1)
+########################################################################################
+
 
 sedgwick_plants <- left_join( sedgwick_plants, synonyms, by = "calflora_binomial")
 
@@ -42,4 +52,4 @@ sedgwick_plants <-
   select( -USDA_symbol.x, -USDA_symbol.y)
 
 
-devtools::use_data(sedgwick_plants, overwrite = T)
+usethis::use_data(sedgwick_plants, overwrite = T)
