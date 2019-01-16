@@ -15,7 +15,7 @@ hyphenated <- read_csv(hyphenated)
 sedgwick_plants <-
   sedgwick_plants %>%
   select(-calflora_taxon) %>%
-  select(calflora_binomial, common:family) %>%
+  select(calflora_binomial, common:family, life_history, form) %>%
   distinct() %>%
   group_by( calflora_binomial ) %>%
   filter( row_number() == 1)
