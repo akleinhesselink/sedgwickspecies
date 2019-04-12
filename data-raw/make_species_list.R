@@ -15,7 +15,7 @@ hyphenated <- read_csv(hyphenated)
 sedgwick_plants <-
   sedgwick_plants %>%
   select(-calflora_taxon) %>%
-  select(calflora_binomial, common:family, life_history, form) %>%
+  select(calflora_binomial, common:family, life_history, form, -lifeform) %>%
   distinct() %>%
   group_by( calflora_binomial ) %>%
   filter( row_number() == 1)
@@ -50,6 +50,13 @@ sedgwick_plants <-
                               USDA_symbol.y,
                               USDA_symbol.x)) %>%
   select( -USDA_symbol.x, -USDA_symbol.y)
+
+
+sedgwick_plants$prior_code[ sedgwick_plants$USDA_symbol == 'ERMO7'] <- NA
+sedgwick_plants$prior_name[ sedgwick_plants$USDA_symbol == 'ERMO7'] <- NA
+
+sedgwick_plants$prior_code[ sedgwick_plants$USDA_symbol == 'ERBO'] <- 'ERBO'
+sedgwick_plants$prior_name[ sedgwick_plants$USDA_symbol == 'ERBO'] <- 'Erodium botrys'
 
 
 usethis::use_data(sedgwick_plants, overwrite = T)

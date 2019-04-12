@@ -6,7 +6,6 @@
 \title{Sedgwick species names}
 \format{A data frame with 733 rows and 16 variables:
 \describe{
-  \item{calflora_taxon}{scientific name from Calflora}
   \item{common}{common name}
   \item{life_history}{annual or perennial}
   \item{form}{growth form, herb or grass etc.}

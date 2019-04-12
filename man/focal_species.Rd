@@ -11,6 +11,7 @@
   \item{prior_native}{prior classification as native or non-native}
   \item{current_code}{revised code}
   \item{current_name}{revised scientific name}
+  \item{current_native}{revised classification as native or non-native}
   \item{family}{family}
   \item{reason_updated}{notes on revision}
   \item{Levine_HilleRisLambers_2009_Nature}{included in this paper}
