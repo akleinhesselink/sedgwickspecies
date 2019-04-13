@@ -49,7 +49,8 @@ sedgwick_plants <-
   mutate(USDA_symbol = ifelse(is.na(USDA_symbol.x),
                               USDA_symbol.y,
                               USDA_symbol.x)) %>%
-  select( -USDA_symbol.x, -USDA_symbol.y)
+  select( -USDA_symbol.x, -USDA_symbol.y) %>%
+  as.data.frame()
 
 
 sedgwick_plants$prior_code[ sedgwick_plants$USDA_symbol == 'ERMO7'] <- NA

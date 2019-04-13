@@ -1,0 +1,52 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# sedgwickspecies
+
+<!-- badges: start -->
+<!-- badges: end -->
+![Sedgwick Flowers](man/figures/README-IMG_1636.jpg)
+__Annual wildlfowers at Sedgwick__
+
+This package provides standard plant names and synonyms for use in community ecology projects at Sedgwick reserve.  This is mainly for use by the Kraft lab at UCLA and the Levine lab at ETH Zurich. This depends on the "SedgwickTaxonomy" repository created by Will Petry. 
+
+## Installation
+
+Install from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("akleinhesselink/sedgwickspecies")
+```
+## Usage
+
+```{r example}
+library(sedgwickspecies)
+```
+
+
+`library(sedgwickspecies)` will load the following datasets:
+
+* __sedgwick_plants__: dataframe with species names and field codes for all vascular plants recorded at Sedgwick Reserve.  
+* __focal_species__: specific information on the species that have been used in experiments in the Levine and Kraft labs at Sedgwick. 
+
+
+You can also embed plots, for example:
+
+```{r pressure, echo = FALSE}
+plot(pressure)
+```
+
+In that case, don't forget to commit and push the resulting figure files, so they display on GitHub!

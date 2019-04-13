@@ -8,13 +8,13 @@ Authors@R:
            role = c("aut", "cre"),
            email = "arklein@ucla.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: This will be used to store the standard plant species names
-    and there synonyms for use in community ecology projects at Sedgwick
+Description: This package provides access to standard species names
+    and synonyms for use in community ecology projects at Sedgwick
     reserve.  This is mainly for use by the Kraft lab at UCLA and the 
-    Levine lab at ETH Zurich. This is largely an R package wrapper for 
-    SedgwickTaxonomy repository created by Will Petry. 
+    Levine lab at Princeton. This package draws in additional data from
+    the "SedgwickTaxonomy" repository created by Will Petry. 
 License: CC0
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.0
 Depends: R (>= 2.10)
