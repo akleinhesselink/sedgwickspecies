@@ -17,8 +17,8 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 <!-- badges: end -->
-![Sedgwick Flowers](man/figures/README-IMG_1636.jpg)
-__Annual wildlfowers at Sedgwick__
+![Sedgwick Flowers](man/figures/IMG_1600.jpg)
+__*Viola douglassii* at Sedgwick__
 
 This package provides standard plant names and synonyms for use in community ecology projects at the [University of California Sedgwick Reserve](https://sedgwick.nrs.ucsb.edu/) in Santa Barbara County, CA.  This list is mainly for use by the [Kraft Lab at UCLA](https://sites.lifesci.ucla.edu/eeb-kraft/) and the [Levine Lab at Princeton](https://eeb.princeton.edu/people/jonathan-levine). This draws on the created by Will Petry. 
 
