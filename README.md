@@ -11,9 +11,12 @@
 wildlfowers at Sedgwick**
 
 This package provides standard plant names and synonyms for use in
-community ecology projects at Sedgwick reserve. This is mainly for use
-by the Kraft lab at UCLA and the Levine lab at ETH Zurich. This depends
-on the “SedgwickTaxonomy” repository created by Will Petry.
+community ecology projects at the [University of California Sedgwick
+Reserve](https://sedgwick.nrs.ucsb.edu/) in Santa Barbara County, CA.
+This list is mainly for use by the [Kraft Lab at
+UCLA](https://sites.lifesci.ucla.edu/eeb-kraft/) and the [Levine Lab at
+Princeton](https://eeb.princeton.edu/people/jonathan-levine). This draws
+on the created by Will Petry.
 
 ## Installation
 
@@ -26,20 +29,10 @@ devtools::install_github("akleinhesselink/sedgwickspecies")
 
 ## Usage
 
-``` r
-library(sedgwickspecies)
-```
-
 `library(sedgwickspecies)` will load the following datasets:
 
   - **sedgwick\_plants**: dataframe with species names and field codes
-    for all vascular plants recorded at Sedgwick Reserve.  
+    for all vascular plants recorded at Sedgwick Reserve. Plant list
+    drawn from Calflora and the Sedgwick Reserve list.
   - **focal\_species**: specific information on the species that have
     been used in experiments in the Levine and Kraft labs at Sedgwick.
-
-You can also embed plots, for example:
-
-<img src="man/figures/README-pressure-1.png" width="100%" />
-
-In that case, don’t forget to commit and push the resulting figure
-files, so they display on GitHub\!
