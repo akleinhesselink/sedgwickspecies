@@ -5,14 +5,14 @@
 #' in the experiments conducted by Levine, HilleRisLambers, Godoy, Kraft and
 #' others.
 #'
-#' @format A data frame with 733 rows and 16 variables:
+#' @format A data frame with 612 rows and 15 variables:
 #' \describe{
+#'   \item{calflora_binomial}{scientific binomial, genus, species from Calflora}
 #'   \item{common}{common name}
-#'   \item{life_history}{annual or perennial}
-#'   \item{form}{growth form, herb or grass etc.}
 #'   \item{status}{native or non-native}
 #'   \item{family}{family}
-#'   \item{calflora_binomial}{scientific binomial, genus, species from Calflora}
+#'   \item{life_history}{annual or perennial}
+#'   \item{form}{growth form, herb or grass etc.}
 #'   \item{synonym}{hand coded synonym for taxa for which the Calflora name is not widely recognized}
 #'   \item{standard_binomial}{standard scientific binomial}
 #'   \item{genus}{genus from standard binomial}

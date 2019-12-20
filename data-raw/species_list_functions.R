@@ -5,11 +5,12 @@ get_species_list <- function(){
   url <- 'http://www.calflora.org/entry/wgh.html#srch=t&group=none&fmt=photo&inma=t&y=34.6927&x=-120.042&z=12&lpstr=t&lpom=d'
 
   species_list <- 'data-raw/raw_species_list.txt'
-  naat <- 'data-raw/navarretia_atractyloides.txt'  # I add these to the species list to be consistent with lab
-  erbo <- 'data-raw/erodium_botrys.txt'
+
+  # add extra species not included in "What Grows Here?"
+  add_species <- 'data-raw/additional_species.txt'
 
   species <-
-    bind_rows( read_tsv(species_list), read_tsv(naat), read_tsv(erbo)) %>%
+    bind_rows( read_tsv(species_list), read_tsv(add_species)) %>%
     rename( 'calflora_taxon' = taxon) %>%
     mutate( calflora_binomial =
               str_replace_all(calflora_taxon, c('var\\..*' = '', 'ssp\\..*'=''))) %>%

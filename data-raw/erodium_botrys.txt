@@ -1,2 +1,0 @@
-taxon	common	lifeform	status	family	bloom
-Erodium botrys	Big heron bill	Annual herb	non-native	GERANIACEAE	2-5

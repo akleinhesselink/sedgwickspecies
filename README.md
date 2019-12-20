@@ -34,5 +34,6 @@ devtools::install_github("akleinhesselink/sedgwickspecies")
   - **sedgwick\_plants**: dataframe with species names and field codes
     for all vascular plants recorded at Sedgwick Reserve. Plant list
     drawn from Calflora and the Sedgwick Reserve list.
+
   - **focal\_species**: specific information on the species that have
     been used in experiments in the Levine and Kraft labs at Sedgwick.

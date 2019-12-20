@@ -52,12 +52,16 @@ sedgwick_plants <-
   select( -USDA_symbol.x, -USDA_symbol.y) %>%
   as.data.frame()
 
-
 sedgwick_plants$prior_code[ sedgwick_plants$USDA_symbol == 'ERMO7'] <- NA
 sedgwick_plants$prior_name[ sedgwick_plants$USDA_symbol == 'ERMO7'] <- NA
 
 sedgwick_plants$prior_code[ sedgwick_plants$USDA_symbol == 'ERBO'] <- 'ERBO'
 sedgwick_plants$prior_name[ sedgwick_plants$USDA_symbol == 'ERBO'] <- 'Erodium botrys'
 
+# Add Unknown species codes
+
+sedgwick_plants <-
+  sedgwick_plants %>%
+  bind_rows(read_tsv('data-raw/unknowns.txt'))
 
 usethis::use_data(sedgwick_plants, overwrite = T)

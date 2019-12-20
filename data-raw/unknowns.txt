@@ -1,0 +1,5 @@
+calflora_binomial	common	status	family	life_history	form	synonym	standard_binomial	genus	species	prior_name	current_code	prior_code	focal_species	USDA_symbol
+Cryptantha sp.	Cryptantha	native	BORAGINACEAE	Annual	herb	NA	Cryptantha sp.	Cryptantha	unknown	NA	CRYPT	CRYPT	NA	CRYPT
+Trifolium sp.	Clover	native	FABACEAE	Annual	herb	NA	Trifolium sp.	Trifolium	unknown	Trifolium	TRIFO	TRISP	NA	TRIFO
+Unknown forb	Unknown Forb	NA	NA	NA	herb	NA	NA	NA	NA	UF	UF	UF	NA	UF
+Unknown grass	Unknown grass	NA	POACEAE	NA	grass	NA	NA	NA	NA	UG	UG	UG	NA	UG
