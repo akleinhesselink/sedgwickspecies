@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-![Sedgwick Flowers](man/figures/IMG_1600.jpg) ***Viola douglassii* at
+![Sedgwick Flowers](man/figures/IMG_1600.JPG) ***Viola douglassii* at
 Sedgwick**
 
 This package provides standard plant names and synonyms for use in
