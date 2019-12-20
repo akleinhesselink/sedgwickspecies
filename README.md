@@ -10,7 +10,7 @@
 ![Sedgwick Flowers](man/figures/IMG_1600.JPG)  
 ***Viola douglassii* at Sedgwick**
 
-This package provides standard plant names and synonyms for use in
+This R package provides standard plant names and synonyms for use in
 community ecology projects at the [University of California Sedgwick
 Reserve](https://sedgwick.nrs.ucsb.edu/) in Santa Barbara County, CA.
 This list is mainly for use by the [Kraft Lab at
