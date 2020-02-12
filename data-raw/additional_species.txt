@@ -1,4 +1,4 @@
 taxon	common	lifeform	status	family	bloom
 Erodium botrys	Big heron bill	Annual herb	non-native	GERANIACEAE	2-5
 Navarretia atractyloides	Holly leaf navarretia	Annual herb	native	POLEMONIACEAE	5-6
-Bromus berteroanus  Chilean chess Annual  grass non-native  POACEAE 3-6
+Bromus berteroanus	Chilean chess	Annual	grass	non-native	POACEAE	3-6

@@ -6,6 +6,10 @@ synonyms <- 'data-raw/synonyms.csv'
 hyphenated <- 'data-raw/hyphenated_taxa.csv'
 focal <- 'data-raw/SedgwickTaxonomy/focalspecies.csv'
 
+# Flag. Re-download USDA codes, or use saved codes?
+download_USDA <- F
+# ---------------------- #
+
 sedgwick_plants <- get_species_list()
 synonyms <- read_csv(synonyms)
 focal <- read_csv(focal)
@@ -39,9 +43,24 @@ sedgwick_plants <-
   full_join(focal %>% select(standard_binomial, prior_name, current_code, prior_code, focal_species), by = 'standard_binomial') %>%
   separate( standard_binomial, c('genus', 'species'), sep = ' ', remove = F)
 
-sedgwick_plants$USDA_symbol <-
-  mapply(x= sedgwick_plants$genus, y=sedgwick_plants$species,
-         FUN = function(x,y) { get_USDA_symbol(x,y,db_root = root) })
+if( download_USDA ) {
+
+  sedgwick_plants$USDA_symbol <-
+    mapply(x= sedgwick_plants$genus, y=sedgwick_plants$species,
+           FUN = function(x,y) { get_USDA_symbol(x,y,db_root = root) })
+
+  sedgwick_plants %>%
+    select( calflora_binomial, USDA_symbol) %>%
+    write_csv('data-raw/USDA_symbols.csv')
+
+}else if( !download_USDA ) {
+
+  USDA <- read_csv('data-raw/USDA_symbols.csv')
+
+  sedgwick_plants <-
+    sedgwick_plants %>%
+    left_join(USDA, by = 'calflora_binomial')
+}
 
 sedgwick_plants <-
   sedgwick_plants %>%
